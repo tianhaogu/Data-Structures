@@ -11,7 +11,7 @@
 #include "HashSet.h"
 using namespace std;
 
-//hash function from queries, directly use the lab 11 code
+//hash function from queries
 class hash_string_obj {
 public:
   unsigned int operator() ( const std::string& key ) const {
