@@ -1,11 +1,3 @@
-// =================================================================
-//
-// IMPORTANT NOTE: Do not modify this file
-//     (except to uncomment the provided test cases 
-//     and add your test cases where specified)
-//
-// =================================================================
-
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
