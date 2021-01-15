@@ -79,10 +79,10 @@ void data_query_processing(ifstream& infile1, vector<string>& six_queries,
 
 void permute_filters(int pos, vector<string>& six_queries, 
                      vector<vector<string> >& all_queries_comb) {
-	if (pos == 6) {
+  if (pos == 6) {
     all_queries_comb.push_back(six_queries); //push back each sub-query to vector containing 64 queries
-		return;
-	}
+    return;
+  }
   vector<string> new_six_queries = six_queries;
   new_six_queries[pos] = "?"; //substitutue the catagory with '?' for sub-query
   permute_filters(pos+1, six_queries, all_queries_comb);
