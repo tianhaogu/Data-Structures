@@ -1,0 +1,88 @@
+Initial board:
+. . . .
+. . . .
+. . . .
+. . . .
+. . . .
+
+Row 0 has 0
+Row 4 has 0
+Row 5 has -1
+Column 0 has 0
+Column 3 has 0
+Column 4 has -1
+Second handout figure
+. . . .
+. . . .
+. . . .
+. . . .
+R . . .
+
+Third handout figure
+. . . .
+. . . .
+. . . .
+. . . .
+R Y R R
+Dimensions are 5 X 4
+
+Fourth handout figure
+. R . .
+. Y . .
+. R . .
+. Y . .
+. R . .
+R Y R R
+Dimensions are 6 X 4
+
+Fifth handout figure
+. R . . .
+. Y . . .
+. R . . .
+. Y . . .
+. R . . .
+R Y R R R
+Dimensions are 6 X 5
+
+Starting a new board!
+Board is now
+----- ----- ----- -----
+----- ----- ----- -----
+----- ----- ----- -----
+----- ----- ----- -----
+----- ----- ----- -----
+
+Board is now
+----- ----- ----- -----
+----- ----- ----- -----
+----- ----- ----- -----
+----- ----- ----- -----
+----- Puppy ----- -----
+
+No winner yet.
+Board is now
+----- ----- ----- -----
+----- ----- ----- -----
+----- ----- ----- -----
+----- Puppy ----- -----
+----- Puppy ----- -----
+
+No winner yet.
+Board is now
+----- ----- ----- -----
+----- ----- ----- -----
+----- Puppy ----- -----
+----- Puppy ----- -----
+----- Puppy ----- -----
+
+No winner yet.
+Board is now
+----- ----- ----- -----
+----- Puppy ----- -----
+----- Puppy ----- -----
+----- Puppy ----- -----
+----- Puppy ----- -----
+
+The winner is: Puppy
+Completed all simple tests.
+Completed all student tests.
