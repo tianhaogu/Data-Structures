@@ -1,0 +1,28 @@
+ [22]
+                                                                                        " Simon" [6]
+                                                                   [1]
+                                                                                        "s" [1]
+                                             [6]
+                                                                                        "me i" [4]
+                                                                   [2]
+                                                                                        "na" [2]
+                       [9]
+                                                                  "my " [3]
+                                             [6]
+                                                                  "Hello " [6]
+Strings for rope of size: 22
+Hello |my |na|me i|s| Simon
+***Index test passed.
+***Basic report test passed.
+***More index tests passed.
+***Concatenation test passed
+Strings for rope of size: 11
+Hello |my |na
+Strings for rope of size: 11
+me i|s| Simon
+***Split test passed
+***Copy test passed
+***Assignment test passed
+***Basic tests passed.
+Your test output here.
+***Student tests passed.
