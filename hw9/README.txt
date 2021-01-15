@@ -21,8 +21,8 @@ ESTIMATE OF # OF HOURS SPENT ON THIS ASSIGNMENT:  < 20 hours >
 
 
 HASH FUNCTION DESCRIPTION
-I directly use the hash function from lab 11. The hash function loops through each char in the query string, use certain operations,
-finally convert to a large unsigned int. For the query string, there are 64 combinations of a movie. For example for the normal one (without wildcard),
+The hash function loops through each char in the query string, use certain operations, finally convert to a large unsigned int. 
+For the query string, there are 64 combinations of a movie. For example for the normal one (without wildcard),
 I merge all 6 catagories to a string (with no ' ' or _ in the middle), and I use '?' to represent a wildcard (like "??????" for all-wildcard query string).
 The way I generate 64 combinations of 6 catagories is through permute_filter function, with a large containing all 64 sub-vectors.
 After the hash value is generated, mod by table size to get the index in the hash table.
