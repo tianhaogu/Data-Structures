@@ -1,6 +1,3 @@
-//Buster Holzbauer copy/implementation of leftist heap exercise 22.14
-//Written April 9th, 2019 at far too late in the night
-
 #include <algorithm> //needed for std::swap
 #include <iostream>
 
