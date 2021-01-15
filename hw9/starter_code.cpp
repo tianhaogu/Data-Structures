@@ -85,8 +85,8 @@ void permute_filters(int pos, vector<string>& six_queries,
 	}
   vector<string> new_six_queries = six_queries;
   new_six_queries[pos] = "?"; //substitutue the catagory with '?' for sub-query
-	permute_filters(pos+1, six_queries, all_queries_comb);
-	permute_filters(pos+1, new_six_queries, all_queries_comb);
+  permute_filters(pos+1, six_queries, all_queries_comb);
+  permute_filters(pos+1, new_six_queries, all_queries_comb);
 }
 
 void permute_filters(vector<string>& six_queries, vector<vector<string> >& all_queries_comb) {
