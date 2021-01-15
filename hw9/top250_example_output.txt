@@ -1,0 +1,44 @@
+Printing 1 result(s):
+The_Shawshank_Redemption
+1994
+142
+1 Drama
+4 TimRobbins (Andy_Dufresne) MorganFreeman (Ellis_Boyd_'Red'_Redding) BobGunton (Warden_Norton) WilliamSadler (Heywood)
+Printing 6 result(s):
+The_Shawshank_Redemption
+1994
+142
+1 Drama
+4 TimRobbins (Andy_Dufresne) MorganFreeman (Ellis_Boyd_'Red'_Redding) BobGunton (Warden_Norton) WilliamSadler (Heywood)
+Pulp_Fiction
+1994
+154
+2 Crime Drama
+4 JohnTravolta (Vincent_Vega) UmaThurman (Mia_Wallace) SamuelL.Jackson (Jules_Winnfield) BruceWillis (Butch_Coolidge)
+Forrest_Gump
+1994
+142
+2 Drama Romance
+4 TomHanks (Forrest_Gump) RobinWright (Jenny_Curran) GarySinise (Lieutenant_Dan_Taylor) SallyField (Mrs._Gump)
+Léon:_The_Professional
+1994
+110
+3 Crime Drama Thriller
+4 JeanReno (Leon) GaryOldman (Stansfield) NataliePortman (Mathilda) DannyAiello (Tony)
+The_Lion_King
+1994
+88
+3 Adventure Animation Drama
+4 MatthewBroderick (Simba) JeremyIrons (Scar) JamesEarlJones (Mufasa) WhoopiGoldberg (Shenzi)
+Three_Colors:_Red
+1994
+99
+3 Drama Mystery Romance
+4 IrèneJacob (Valentine) Jean-LouisTrintignant (Le_juge_Joseph_Kern) FrédériqueFeder (Karin) Jean-PierreLorit (Auguste)
+Printing 1 result(s):
+The_Shawshank_Redemption
+1994
+142
+1 Drama
+4 TimRobbins (Andy_Dufresne) MorganFreeman (Ellis_Boyd_'Red'_Redding) BobGunton (Warden_Norton) WilliamSadler (Heywood)
+No results for query.

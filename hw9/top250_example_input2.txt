@@ -1,0 +1,31 @@
+movies top250_example_movies.txt
+actors top250_example_actors.txt
+query
+The_Shawshank_Redemption
+1994
+142
+1 Drama
+4 nm0000209 nm0000151 nm0348409 nm0006669
+4 Andy_Dufresne Ellis_Boyd_'Red'_Redding Warden_Norton Heywood
+query
+?
+1994
+?
+0
+0
+0
+query
+The_Shawshank_Redemption
+1994
+142
+1 Drama
+0
+0
+query
+The_Shawshank_Redemption
+1994
+142
+1 Drama
+4 nm0006669 nm0000209 nm0000151 nm0348409
+4 Heywood Andy_Dufresne Ellis_Boyd_'Red'_Redding Warden_Norton
+quit

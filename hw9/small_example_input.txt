@@ -1,0 +1,19 @@
+table_size 650
+occupancy 0.65
+movies small_example_movies.txt
+actors small_example_actors.txt
+query
+DS_VI:Curse_of_the_Recursion
+2102
+120
+1 Horror
+3 n1000 n100000 n5432
+3 Unknown_Role Unknown_Role Unknown_Role
+query
+DS_VI:Curse_of_the_Recursion
+2102
+120
+1 Horror
+3 n5432 n1000 n100000
+3 Unknown_Role Unknown_Role Unknown_Role
+quit

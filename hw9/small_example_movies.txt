@@ -1,0 +1,42 @@
+DS_I:A_First_Semester_Story
+2099
+110
+1 Documentary
+3 n100000 n1000 n5432
+3 Unknown_Role Unknown_Role Unknown_Role
+DS_II:Electric_Bugaloo
+2100
+110
+2 Documentary Thriller
+3 n100000 n1000 n5432
+3 Unknown_Role Unknown_Role Unknown_Role
+DS_III:Third_Time's_The_Charm
+2100
+120
+2 Documentary Thriller
+3 n100000 n1000 n5432
+3 Unknown_Role Unknown_Role Unknown_Role
+DS_IV:Submitty_Strikes_Back
+2101
+120
+2 Thriller Horror
+3 n1000 n100000 n5432
+3 Unknown_Role Unknown_Role Unknown_Role
+DS_VI:Curse_of_the_Recursion
+2102
+120
+1 Horror
+3 n1000 n100000 n5432
+3 Unknown_Role Unknown_Role Unknown_Role
+DS_XXV:Graduation_Day
+2112
+150
+2 Comedy Family
+2 n1000 n100000
+2 Instructor Magician
+DS_XXVI:Rise_of_a_Benpire
+2113
+45
+1 Comedy
+2 n1000 n1000
+2 Young_Ben Old_Ben

@@ -1,0 +1,12 @@
+table_size 650
+occupancy 0.65
+movies small_example_movies.txt
+actors small_example_actors.txt
+query
+?
+?
+?
+0
+0
+0
+quit

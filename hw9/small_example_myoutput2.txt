@@ -1,0 +1,36 @@
+Printing 7 result(s):
+DS_I:A_First_Semester_Story
+2099
+110
+1 Documentary
+3 Buster_Holzbauer (Unknown_Role) Ben_Bitdiddle (Unknown_Role) Alyssa_P_Hacker (Unknown_Role)
+DS_II:Electric_Bugaloo
+2100
+110
+2 Documentary Thriller
+3 Buster_Holzbauer (Unknown_Role) Ben_Bitdiddle (Unknown_Role) Alyssa_P_Hacker (Unknown_Role)
+DS_III:Third_Time's_The_Charm
+2100
+120
+2 Documentary Thriller
+3 Buster_Holzbauer (Unknown_Role) Ben_Bitdiddle (Unknown_Role) Alyssa_P_Hacker (Unknown_Role)
+DS_IV:Submitty_Strikes_Back
+2101
+120
+2 Thriller Horror
+3 Ben_Bitdiddle (Unknown_Role) Buster_Holzbauer (Unknown_Role) Alyssa_P_Hacker (Unknown_Role)
+DS_VI:Curse_of_the_Recursion
+2102
+120
+1 Horror
+3 Ben_Bitdiddle (Unknown_Role) Buster_Holzbauer (Unknown_Role) Alyssa_P_Hacker (Unknown_Role)
+DS_XXV:Graduation_Day
+2112
+150
+2 Comedy Family
+2 Ben_Bitdiddle (Instructor) Buster_Holzbauer (Magician)
+DS_XXVI:Rise_of_a_Benpire
+2113
+45
+1 Comedy
+2 Ben_Bitdiddle (Young_Ben) Ben_Bitdiddle (Old_Ben)

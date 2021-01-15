@@ -1,0 +1,1500 @@
+The_Shawshank_Redemption
+1994
+142
+1 Drama
+4 nm0000209 nm0000151 nm0348409 nm0006669
+4 Andy_Dufresne Ellis_Boyd_'Red'_Redding Warden_Norton Heywood
+The_Godfather
+1972
+175
+2 Crime Drama
+4 nm0000008 nm0000199 nm0001001 nm0000473
+4 Don_Vito_Corleone Michael_Corleone Sonny_Corleone Kay_Adams
+The_Godfather:_Part_II
+1974
+202
+2 Crime Drama
+4 nm0000199 nm0000134 nm0000380 nm0000473
+4 Michael Vito_Corleone Tom_Hagen Kay
+The_Dark_Knight
+2008
+152
+3 Action Crime Drama
+4 nm0000288 nm0005132 nm0001173 nm0000323
+4 Bruce_Wayne Joker Harvey_Dent Alfred
+12_Angry_Men
+1957
+96
+1 Drama
+4 nm0000020 nm0002011 nm0000842 nm0275835
+4 Juror_8 Juror_3 Juror_1 Juror_2
+Schindler's_List
+1993
+195
+3 Biography Drama History
+4 nm0000553 nm0000146 nm0001426 nm0328751
+4 Oskar_Schindler Amon_Goeth Itzhak_Stern Emilie_Schindler
+The_Lord_of_the_Rings:_The_Return_of_the_King
+2003
+201
+3 Adventure Drama Fantasy
+4 nm0000704 nm0001557 nm0005212 nm0089217
+4 Frodo Aragorn Gandalf Legolas
+Pulp_Fiction
+1994
+154
+2 Crime Drama
+4 nm0000237 nm0000235 nm0000168 nm0000246
+4 Vincent_Vega Mia_Wallace Jules_Winnfield Butch_Coolidge
+The_Good,_the_Bad_and_the_Ugly
+1966
+161
+1 Western
+4 nm0000142 nm0908919 nm0001812 nm0321294
+4 Blondie Tuco Sentenza Alcoholic_Union_Captain
+Fight_Club
+1999
+139
+1 Drama
+4 nm0000093 nm0001570 nm0001533 nm0340260
+4 Tyler_Durden The_Narrator Robert_'Bob'_Paulsen Richard_Chesler
+The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring
+2001
+178
+3 Adventure Drama Fantasy
+4 nm0000704 nm0005212 nm0089217 nm0000293
+4 Frodo Gandalf Legolas Boromir
+Forrest_Gump
+1994
+142
+2 Drama Romance
+4 nm0000158 nm0000705 nm0000641 nm0000398
+4 Forrest_Gump Jenny_Curran Lieutenant_Dan_Taylor Mrs._Gump
+Star_Wars:_Episode_V_-_The_Empire_Strikes_Back
+1980
+124
+3 Action Adventure Fantasy
+4 nm0000434 nm0000148 nm0000402 nm0001850
+4 Luke_Skywalker Han_Solo Princess_Leia Lando_Calrissian
+Inception
+2010
+148
+3 Action Adventure Sci-Fi
+4 nm0000138 nm0330687 nm0680983 nm0913822
+4 Cobb Arthur Ariadne Saito
+The_Lord_of_the_Rings:_The_Two_Towers
+2002
+179
+3 Adventure Drama Fantasy
+4 nm0000704 nm0005212 nm0001557 nm0089217
+4 Frodo Gandalf Aragorn Legolas
+One_Flew_Over_the_Cuckoo's_Nest
+1975
+133
+1 Drama
+4 nm0000197 nm0001221 nm0760225 nm0077720
+4 R.P._McMurphy Nurse_Ratched Chief_Bromden Ellis
+Goodfellas
+1990
+146
+2 Crime Drama
+4 nm0000134 nm0000501 nm0000582 nm0000966
+4 James_Conway Henry_Hill Tommy_DeVito Karen_Hill
+The_Matrix
+1999
+136
+2 Action Sci-Fi
+4 nm0000206 nm0000401 nm0005251 nm0915989
+4 Neo Morpheus Trinity Agent_Smith
+Seven_Samurai
+1954
+207
+2 Adventure Drama
+4 nm0001536 nm0793766 nm0875477 nm0793616
+4 Kikuchiyo Kambei_Shimada Shino Wife
+Se7en
+1995
+127
+3 Crime Drama Mystery
+4 nm0000151 nm0000093 nm0000228 nm0001825
+4 Somerset Mills John_Doe Dead_Man_at_1st_Crime_Scene
+City_of_God
+2002
+130
+2 Crime Drama
+4 nm1179105 nm1129884 nm0618690 nm1249574
+4 Buscapé_-_Rocket Zé_Pequeno_-_Li'l_Zé Sandro_Cenoura_-_Carrot Bené_-_Benny
+Star_Wars:_Episode_IV_-_A_New_Hope
+1977
+121
+3 Action Adventure Fantasy
+4 nm0000434 nm0000148 nm0000402 nm0000027
+4 Luke_Skywalker Han_Solo Princess_Leia_Organa Ben_Obi-Wan_Kenobi
+The_Silence_of_the_Lambs
+1991
+118
+3 Crime Drama Thriller
+4 nm0000149 nm0000164 nm0095029 nm0501435
+4 Clarice_Starling Dr._Hannibal_Lecter FBI_Instructor Ardelia_Mapp
+It's_a_Wonderful_Life
+1946
+130
+3 Drama Family Fantasy
+4 nm0000071 nm0001656 nm0000859 nm0593775
+4 George_Bailey Mary_Hatch Mr._Potter Uncle_Billy
+Life_Is_Beautiful
+1997
+116
+3 Comedy Drama Romance
+4 nm0000905 nm0000971 nm0134493 nm0243842
+4 Guido Dora Giosué Zio
+Spirited_Away
+2001
+125
+3 Adventure Animation Family
+4 nm0153738 nm0687189 nm0997115 nm0383708
+4 Chihiro Yubaba Haku Chihiro_Ogino
+Saving_Private_Ryan
+1998
+169
+2 Drama War
+4 nm0000158 nm0000354 nm0001744 nm0122653
+4 Captain_Miller Private_Ryan Sergeant_Horvath Private_Reiben
+The_Usual_Suspects
+1995
+106
+3 Crime Mystery Thriller
+4 nm0000228 nm0000321 nm0001590 nm0000286
+4 Verbal Keaton Dave_Kujan McManus
+Léon:_The_Professional
+1994
+110
+3 Crime Drama Thriller
+4 nm0000606 nm0000198 nm0000204 nm0000732
+4 Leon Stansfield Mathilda Tony
+The_Green_Mile
+1999
+189
+3 Crime Drama Fantasy
+4 nm0000158 nm0003817 nm0001556 nm0001372
+4 Paul_Edgecomb John_Coffey Brutus_'Brutal'_Howell Jan_Edgecomb
+Interstellar
+2014
+169
+3 Adventure Drama Sci-Fi
+4 nm0000190 nm0004266 nm1567113 nm3237775
+4 Cooper Brand Murph Murph_(10_Yrs.)
+Psycho
+1960
+109
+3 Horror Mystery Thriller
+4 nm0000578 nm0001463 nm0587256 nm0001260
+4 Norman_Bates Marion_Crane Lila_Crane Sam_Loomis
+American_History_X
+1998
+119
+1 Drama
+4 nm0001570 nm0000411 nm0000350 nm0000497
+4 Derek_Vinyard Danny_Vinyard Doris_Vinyard Davina_Vinyard
+City_Lights
+1931
+87
+3 Comedy Drama Romance
+4 nm0000122 nm0156039 nm5681967 nm0616729
+4 A_Tramp A_Blind_Girl The_Blind_Girl's_Grandmother An_Eccentric_Millionaire
+Casablanca
+1942
+102
+3 Drama Romance War
+4 nm0000007 nm0000006 nm0002134 nm0001647
+4 Rick_Blaine Ilsa_Lund Victor_Laszlo Captain_Louis_Renault
+Once_Upon_a_Time_in_the_West
+1968
+165
+1 Western
+4 nm0000020 nm0000314 nm0001012 nm0001673
+4 Frank Harmonica Jill_McBain Manuel_'Cheyenne'_Gutiérrez
+The_Pianist
+2002
+150
+3 Biography Drama Music
+4 nm0004778 nm0470981 nm0277975 nm0288976
+4 Wladyslaw_Szpilman Captain_Wilm_Hosenfeld Father Dorota
+Modern_Times
+1936
+87
+3 Comedy Drama Family
+8 nm0305087 nm0000122 nm0002104 nm0074788 nm0761866 nm0174682 nm0003424 nm0090008
+8 President_of_the_Electro_Steel_Corp. A_Factory_Worker A_Gamin Cafe_Proprietor Big_Bill Mechanic Burglar Gamin's_Father
+The_Intouchables
+2011
+112
+3 Biography Comedy Drama
+4 nm0167388 nm1082477 nm0494504 nm1109153
+4 Philippe Driss Yvonne Magalie
+The_Departed
+2006
+151
+3 Crime Drama Thriller
+4 nm0000138 nm0000354 nm0000197 nm0000242
+4 Billy Colin_Sullivan Frank_Costello Dignam
+Back_to_the_Future
+1985
+116
+3 Adventure Comedy Sci-Fi
+4 nm0000150 nm0000502 nm0000670 nm0000417
+4 Marty_McFly Dr._Emmett_Brown Lorraine_Baines George_McFly
+Terminator_2:_Judgment_Day
+1991
+137
+2 Action Sci-Fi
+4 nm0000216 nm0000157 nm0000411 nm0001598
+4 The_Terminator Sarah_Connor John_Connor T-1000
+Whiplash
+2014
+106
+2 Drama Music
+4 nm1886602 nm0799777 nm2552034 nm0001663
+4 Andrew Fletcher Nicole Jim_Neimann
+Rear_Window
+1954
+112
+2 Mystery Thriller
+4 nm0000071 nm0000038 nm0179819 nm0728812
+4 L.B._'Jeff'_Jefferies Lisa_Carol_Fremont Det._Lt._Thomas_J._Doyle Stella
+The_Lion_King
+1994
+88
+3 Adventure Animation Drama
+4 nm0000111 nm0000460 nm0000469 nm0000155
+4 Simba Scar Mufasa Shenzi
+Spider-Man:_Into_the_Spider-Verse
+2018
+117
+3 Action Adventure Animation
+4 nm4271336 nm2159926 nm2794962 nm0991810
+4 Miles_Morales Peter_B._Parker Gwen_Stacy Uncle_Aaron
+Raiders_of_the_Lost_Ark
+1981
+115
+2 Action Adventure
+4 nm0000148 nm0000261 nm0293550 nm0722636
+4 Indy Marion Belloq Sallah
+Gladiator
+2000
+155
+3 Action Adventure Drama
+4 nm0000128 nm0001618 nm0001567 nm0001657
+4 Maximus Commodus Lucilla Proximo
+The_Prestige
+2006
+130
+3 Drama Mystery Sci-Fi
+4 nm0000288 nm0413168 nm0424060 nm0000323
+4 Alfred_Borden Robert_Angier Olivia_Wenscombe Cutter
+Apocalypse_Now
+1979
+147
+2 Drama War
+4 nm0000640 nm0000008 nm0000380 nm0002078
+4 Captain_Benjamin_L._Willard Colonel_Walter_E._Kurtz Lieutenant_Colonel_Bill_Kilgore Jay_'Chef'_Hicks
+Memento
+2000
+113
+2 Mystery Thriller
+4 nm0001602 nm0005251 nm0001592 nm0095478
+4 Leonard Natalie Teddy Burt
+Alien
+1979
+116
+2 Horror Sci-Fi
+4 nm0000244 nm0000643 nm0000457 nm0001021
+4 Ripley Dallas Kane Lambert
+Grave_of_the_Fireflies
+1988
+89
+3 Animation Drama War
+4 nm0851302 nm0794186 nm0945312 nm0794002
+4 Seita Setsuko Aunt Mother
+Cinema_Paradiso
+1988
+155
+1 Drama
+4 nm0634159 nm0134073 nm0041066 nm0199774
+4 Alfredo Spaccafico Maria_Di_Vita_-_Younger Anna
+The_Great_Dictator
+1940
+125
+3 Comedy Drama War
+7 nm0354916 nm0000122 nm0002104 nm0642988 nm0306786 nm0199787 nm0317970
+7 Madame_Napaloni Hynkel_-_Dictator_of_Tomania Hannah Napaloni_-_Dictator_of_Bacteria Schultz Garbitsch Herring
+Sunset_Boulevard
+1950
+110
+2 Drama Film-Noir
+4 nm0000034 nm0841797 nm0002233 nm0647970
+4 Joe_Gillis Norma_Desmond Max_Von_Mayerling Betty_Schaefer
+The_Lives_of_Others
+2006
+137
+2 Drama Thriller
+4 nm0618057 nm0311476 nm0462407 nm0876300
+4 Hauptmann_Gerd_Wiesler Christa-Maria_Sieland Georg_Dreyman Oberstleutnant_Anton_Grubitz
+Dr._Strangelove_or:_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb
+1964
+95
+1 Comedy
+4 nm0000634 nm0001715 nm0001330 nm0943978
+4 Group_Capt._Lionel_Mandrake Gen._'Buck'_Turgidson Brig._Gen._Jack_D._Ripper Col._'Bat'_Guano
+Paths_of_Glory
+1957
+88
+2 Drama War
+4 nm0000018 nm0576127 nm0579663 nm0534317
+4 Col._Dax Cpl._Philippe_Paris Gen._George_Broulard Gen._Paul_Mireau
+Avengers:_Infinity_War
+2018
+149
+3 Action Adventure Fantasy
+4 nm0000375 nm1165110 nm0749263 nm0262635
+4 Tony_Stark Thor Bruce_Banner Steve_Rogers
+The_Shining
+1980
+146
+2 Drama Horror
+4 nm0000197 nm0001167 nm0515950 nm0001079
+4 Jack_Torrance Wendy_Torrance Danny Hallorann
+Django_Unchained
+2012
+165
+2 Drama Western
+4 nm0004937 nm0910607 nm0000138 nm0913488
+4 Django Dr._King_Schultz Calvin_Candie Broomhilda_von_Shaft
+WALL·E
+2008
+98
+3 Adventure Animation Family
+4 nm0123785 nm2264184 nm0307531 nm0929609
+4 WALL·E EVE Captain Shelby_Forthright
+Princess_Mononoke
+1997
+134
+3 Adventure Animation Fantasy
+4 nm0559444 nm0410942 nm0849100 nm0001082
+4 Ashitaka San Eboshi-gozen Ashitaka
+Witness_for_the_Prosecution
+1957
+116
+3 Crime Drama Mystery
+4 nm0000061 nm0000017 nm0001452 nm0006471
+4 Leonard_Vole Christine Sir_Wilfrid_Roberts Miss_Plimsoll
+Oldboy
+2003
+120
+3 Action Drama Mystery
+4 nm0158856 nm0949167 nm1367246 nm1203041
+4 Dae-su_Oh Woo-jin_Lee Mi-do No_Joo-hwan
+The_Dark_Knight_Rises
+2012
+164
+2 Action Thriller
+4 nm0000288 nm0362766 nm0004266 nm0000198
+4 Bruce_Wayne Bane Selina Commissioner_Gordon
+Aliens
+1986
+137
+3 Action Adventure Sci-Fi
+4 nm0000244 nm0000299 nm0001343 nm0001663
+4 Ripley Corporal_Hicks Newt Burke
+American_Beauty
+1999
+122
+1 Drama
+4 nm0000228 nm0000906 nm0000301 nm0004747
+4 Lester_Burnham Carolyn_Burnham Jane_Burnham Ricky_Fitts
+Once_Upon_a_Time_in_America
+1984
+229
+2 Crime Drama
+4 nm0000134 nm0000249 nm0001527 nm0001852
+4 Noodles Max Deborah Jimmy_O'Donnell
+Coco
+2017
+105
+3 Adventure Animation Comedy
+4 nm5645519 nm0305558 nm0000973 nm0005513
+4 Miguel Héctor Ernesto_de_la_Cruz Mamá_Imelda
+Das_Boot
+1981
+149
+3 Adventure Drama Thriller
+4 nm0001638 nm0344963 nm0921044 nm0071059
+4 Capt.-Lt._Henrich_Lehmann-Willenbrock_-_Der_Alte Lt._Werner_-_Correspondent Chief_Engineer_Fritz_Grade_-_Der_Leitende-Der_LI 1st_Lieutenant_-_Number_One-1WO
+Citizen_Kane
+1941
+119
+2 Drama Mystery
+4 nm0000080 nm0001072 nm0173827 nm0001547
+4 Kane Jedediah_Leland Susan_Alexander_Kane Mary_Kane
+Braveheart
+1995
+178
+3 Biography Drama History
+4 nm0000154 nm0000521 nm0001526 nm0005171
+4 William_Wallace Princess_Isabelle Longshanks_-_King_Edward_I Robert_the_Bruce
+Vertigo
+1958
+128
+3 Mystery Romance Thriller
+4 nm0000071 nm0001571 nm0000895 nm0375738
+4 John_'Scottie'_Ferguson Madeleine_Elster Midge_Wood Gavin_Elster
+North_by_Northwest
+1959
+136
+3 Adventure Mystery Thriller
+4 nm0000026 nm0001693 nm0000051 nm0484829
+4 Roger_Thornhill Eve_Kendall Phillip_Vandamm Clara_Thornhill
+Reservoir_Dogs
+1992
+99
+3 Crime Drama Thriller
+4 nm0000172 nm0000619 nm0000514 nm0001606
+4 Mr._White Mr._Orange Mr._Blonde Nice_Guy_Eddie
+Star_Wars:_Episode_VI_-_Return_of_the_Jedi
+1983
+131
+3 Action Adventure Fantasy
+4 nm0000434 nm0000148 nm0000402 nm0001850
+4 Luke_Skywalker Han_Solo Princess_Leia Lando_Calrissian
+Your_Name.
+2016
+106
+3 Animation Drama Fantasy
+4 nm1126340 nm4759838 nm6954008 nm2976492
+4 Taki_Tachibana Mitsuha_Miyamizu Katsuhiko_Teshigawara Sayaka_Natori
+M
+1931
+117
+3 Crime Mystery Thriller
+4 nm0000048 nm0927145 nm0484737 nm0921532
+4 Hans_Beckert Frau_Beckmann Elsie_Beckmann Inspector_Karl_Lohmann
+Amadeus
+1984
+160
+3 Biography Drama History
+4 nm0000719 nm0001371 nm0000931 nm0234541
+4 Antonio_Salieri Wolfgang_Amadeus_Mozart Constanze_Mozart Leopold_Mozart
+Requiem_for_a_Dream
+2000
+102
+1 Drama
+4 nm0000995 nm0001467 nm0000124 nm0005541
+4 Sara_Goldfarb Harry_Goldfarb Marion_Silver Tyrone_C._Love
+Dangal
+2016
+161
+3 Action Biography Drama
+4 nm0451148 nm2799219 nm0760778 nm7621667
+4 Mahavir_Singh_Phogat Daya_Kaur Geeta_Phogat Babita_Kumari
+3_Idiots
+2009
+170
+2 Comedy Drama
+4 nm0451148 nm0534856 nm1587175 nm0430817
+4 Ranchoddas_'Rancho'_Shyamaldas_Chanchad Farhan_Qureshi Mona Raju_Rastogi
+Like_Stars_on_Earth
+2007
+165
+2 Drama Family
+4 nm2594301 nm0451148 nm1538116 nm1479650
+4 Ishaan_Awasthi Ram_Shankar_Nikumbh Maya_Awasthi Nandkishore_Awasthi
+2001:_A_Space_Odyssey
+1968
+149
+2 Adventure Sci-Fi
+4 nm0001158 nm0516972 nm0843213 nm0725220
+4 Dr._Dave_Bowman Dr._Frank_Poole Dr._Heywood_R._Floyd Moon-Watcher
+Eternal_Sunshine_of_the_Spotless_Mind
+2004
+108
+3 Drama Romance Sci-Fi
+4 nm0000120 nm0000701 nm0929489 nm0004423
+4 Joel_Barish Clementine_Kruczynski Dr._Mierzwiak Train_Conductor
+Lawrence_of_Arabia
+1962
+216
+3 Adventure Biography Drama
+4 nm0000564 nm0000027 nm0000063 nm0370144
+4 T.E._Lawrence Prince_Faisal Auda_Abu_Tayi General_Allenby
+Toy_Story
+1995
+81
+3 Adventure Animation Comedy
+4 nm0000158 nm0000741 nm0725543 nm0001815
+4 Woody Buzz_Lightyear Mr._Potato_Head Slinky_Dog
+A_Clockwork_Orange
+1971
+136
+3 Crime Drama Sci-Fi
+4 nm0000532 nm0535861 nm0060988 nm0165049
+4 Alex Mr._Alexander Chief_Guard Dim
+Amélie
+2001
+122
+2 Comedy Romance
+4 nm0851582 nm0440913 nm0749363 nm0186677
+4 Amélie_Poulain Nino_Quincampoix Raphaël_Poulain Amandine_Poulain
+Double_Indemnity
+1944
+107
+3 Crime Drama Film-Noir
+4 nm0534045 nm0001766 nm0000064 nm0056477
+4 Walter_Neff Phyllis_Dietrichson Barton_Keyes Nino_Zachetti
+Singin'_in_the_Rain
+1952
+103
+3 Comedy Musical Romance
+4 nm0000037 nm0640307 nm0001666 nm0353405
+4 Don_Lockwood Cosmo_Brown Kathy_Selden Lina_Lamont
+Taxi_Driver
+1976
+114
+2 Crime Drama
+4 nm0000134 nm0000149 nm0001732 nm0000983
+4 Travis_Bickle Iris Betsy Tom
+Inglourious_Basterds
+2009
+153
+3 Adventure Drama War
+4 nm0000093 nm1208167 nm0744834 nm0491259
+4 Lt._Aldo_Raine Bridget_von_Hammersmark Sgt._Donny_Donowitz Shosanna
+Full_Metal_Jacket
+1987
+116
+2 Drama War
+4 nm0000546 nm0000388 nm0000352 nm0000284
+4 Pvt._Joker Gny._Sgt._Hartman Pvt._Pyle Animal_Mother
+Bicycle_Thieves
+1948
+89
+1 Drama
+4 nm0536009 nm0821543 nm0136794 nm0022821
+4 Antonio Bruno Maria The_Charitable_Lady
+To_Kill_a_Mockingbird
+1962
+129
+2 Crime Drama
+4 nm0000060 nm0576345 nm0653942 nm0614677
+4 Atticus_Finch Dill_Harris Sheriff_Heck_Tate Maudie_Atkinson
+The_Kid
+1921
+68
+3 Comedy Drama Family
+10 nm0088471 nm0000122 nm0701012 nm0001067 nm0588033 nm0042317 nm0047800 nm0048798 nm0074788 nm0080930
+10 His_Assistant A_Tramp The_Woman The_Child The_Man Man_in_Shelter Bride Slum_Nurse Professor_Guido Orphan_Asylum_Driver
+Good_Will_Hunting
+1997
+126
+2 Drama Romance
+4 nm0000245 nm0000354 nm0000255 nm0001745
+4 Sean Will Chuckie Lambeau
+The_Sting
+1973
+129
+3 Comedy Crime Drama
+4 nm0000056 nm0000602 nm0001727 nm0001164
+4 Henry_Gondorff Johnny_Hooker Doyle_Lonnegan Lt._Wm._Snyder
+Toy_Story_3
+2010
+103
+3 Adventure Animation Comedy
+4 nm0000158 nm0000741 nm0000349 nm0000885
+4 Woody Buzz_Lightyear Jessie Lotso
+The_Hunt
+2012
+115
+1 Drama
+4 nm0586568 nm0488917 nm5038871 nm5039026
+4 Lucas Theo Klara Marcus
+Snatch
+2000
+104
+2 Comedy Crime
+4 nm0005458 nm0000093 nm0001125 nm0001199
+4 Turkish Mickey_O'Neil Franky_Four_Fingers Cousin_Avi
+Scarface
+1983
+170
+2 Crime Drama
+4 nm0000199 nm0000201 nm0000874 nm0001512
+4 Tony_Montana Elvira Manny_Ribera Gina
+For_a_Few_Dollars_More
+1965
+132
+1 Western
+4 nm0000142 nm0001812 nm0002231 nm0103828
+4 Monco Col._Douglas_Mortimer El_Indio_(The_Indian) Nino,_Member_of_Indio's_Gang
+The_Apartment
+1960
+125
+3 Comedy Drama Romance
+4 nm0000493 nm0000511 nm0534045 nm0001827
+4 C.C._Baxter Fran_Kubelik Jeff_D._Sheldrake Joe_Dobisch
+Monty_Python_and_the_Holy_Grail
+1975
+91
+3 Adventure Comedy Fantasy
+4 nm0001037 nm0000092 nm0001385 nm0000416
+4 King_Arthur Second_Swallow-Savvy_Guard Dead_Collector Patsy
+Metropolis
+1927
+153
+2 Drama Sci-Fi
+4 nm0375609 nm0002154 nm0297054 nm0459030
+4 The_Machine_Man Joh_Fredersen Freder_-_Joh_Fredersen's_Son C.A._Rotwang_-_the_Inventor
+L.A._Confidential
+1997
+138
+3 Crime Drama Mystery
+4 nm0000228 nm0000128 nm0001602 nm0000107
+4 Jack_Vincennes Bud_White Ed_Exley Lynn_Bracken
+A_Separation
+2011
+123
+2 Drama Thriller
+4 nm1818216 nm0368689 nm4299147 nm1486911
+4 Nader Simin Razieh Hojjat
+Indiana_Jones_and_the_Last_Crusade
+1989
+127
+3 Action Adventure Fantasy
+4 nm0000148 nm0000125 nm0233145 nm0001186
+4 Indiana_Jones Professor_Henry_Jones Elsa Marcus_Brody
+Rashomon
+1950
+88
+3 Crime Drama Mystery
+4 nm0001536 nm0477553 nm0605270 nm0793766
+4 Tajômaru Masako_Kanazawa Takehiro_Kanazawa Woodcutter
+Up
+2009
+96
+3 Adventure Animation Comedy
+4 nm0000799 nm2973712 nm0001652 nm0001626
+4 Carl_Fredricksen Russell Construction_Foreman_Tom Charles_Muntz
+All_About_Eve
+1950
+138
+1 Drama
+4 nm0000012 nm0000879 nm0001695 nm0002141
+4 Margo_Channing Eve_Harrington Addison_DeWitt Karen_Richards
+Batman_Begins
+2005
+140
+3 Action Adventure Thriller
+4 nm0000288 nm0000323 nm0913822 nm0000553
+4 Bruce_Wayne Alfred Ra's_Al_Ghul Ducard
+Yojimbo
+1961
+110
+3 Action Drama Thriller
+4 nm0001536 nm0867391 nm0619938 nm0875362
+4 Sanjuro_Kuwabatake Gonji_-_Tavern_Keeper Unosuke_-_Gunfighter Nui
+Some_Like_It_Hot
+1959
+121
+2 Comedy Romance
+4 nm0000054 nm0000348 nm0000493 nm0706368
+4 Sugar_Kane_Kowalczyk Joe Jerry Spats_Colombo
+Downfall
+2004
+156
+3 Biography Drama History
+4 nm0004486 nm0487884 nm0559890 nm0477810
+4 Adolf_Hitler Traudl_Junge Joseph_Goebbels Eva_Braun
+Unforgiven
+1992
+130
+2 Drama Western
+4 nm0000142 nm0000432 nm0000151 nm0001321
+4 Bill_Munny Little_Bill_Daggett Ned_Logan English_Bob
+Die_Hard
+1988
+132
+2 Action Thriller
+4 nm0000246 nm0000614 nm0000889 nm0001817
+4 John_McClane Hans_Gruber Holly_Gennaro_McClane Sgt._Al_Powell
+The_Treasure_of_the_Sierra_Madre
+1948
+126
+3 Adventure Drama Western
+4 nm0000007 nm0404158 nm0392529 nm0071636
+4 Fred_C._Dobbs Howard Curtin Cody
+Heat
+1995
+170
+3 Crime Drama Thriller
+4 nm0000199 nm0000134 nm0000174 nm0000685
+4 Lt._Vincent_Hanna Neil_McCauley Chris_Shiherlis Nate
+Incendies
+2010
+131
+3 Drama Mystery War
+4 nm0044073 nm0246386 nm0309945 nm1323233
+4 Nawal_Marwan Jeanne_Marwan Simon_Marwan Barbier_de_la_Milice
+Green_Book
+2018
+130
+3 Biography Comedy Drama
+4 nm0001557 nm0991810 nm0004802 nm1724319
+4 Tony_Lip Dr._Donald_Shirley Dolores Johnny_Venere
+Ikiru
+1952
+143
+1 Drama
+4 nm0793766 nm0437520 nm0385443 nm0848984
+4 Kanji_Watanabe Mitsuo_Watanabe,_Kanji's_son Kimura Sakai
+Raging_Bull
+1980
+129
+3 Biography Drama Sport
+4 nm0000134 nm0001550 nm0000582 nm0898634
+4 Jake_La_Motta Vickie_La_Motta Joey Salvy
+The_Great_Escape
+1963
+172
+3 Adventure Drama History
+4 nm0000537 nm0001258 nm0000277 nm0000314
+4 Hilts_'The_Cooler_King' Hendley_'The_Scrounger' Bartlett_'Big_X' Danny_'Tunnel_King'
+Children_of_Heaven
+1997
+89
+2 Drama Family
+4 nm0619870 nm0268488 nm0781245 nm0415412
+4 Ali's_Father Ali Zahra Roya
+Pan's_Labyrinth
+2006
+118
+3 Drama Fantasy War
+4 nm1419440 nm0317725 nm0530365 nm0893941
+4 Ofelia Carmen Vidal Mercedes
+Chinatown
+1974
+130
+3 Drama Mystery Thriller
+4 nm0000197 nm0001159 nm0001379 nm0520164
+4 J.J._Gittes Evelyn_Mulwray Noah_Cross Escobar
+My_Father_and_My_Son
+2005
+108
+2 Drama Family
+4 nm1002038 nm0476334 nm0406157 nm2020015
+4 Hüseyin Sadik Nuran Deniz
+My_Neighbor_Totoro
+1988
+86
+3 Animation Family Fantasy
+4 nm0847054 nm0383022 nm0757076 nm0411790
+4 Totoro Satsuki Mei Tatsuo_Kusakabe
+The_Third_Man
+1949
+104
+3 Film-Noir Mystery Thriller
+4 nm0000080 nm0001072 nm0885098 nm0002145
+4 Harry_Lime Holly_Martins Anna_Schmidt Maj._Calloway
+Howl's_Moving_Castle
+2004
+119
+3 Adventure Animation Family
+4 nm0047962 nm0454120 nm0309107 nm0594271
+4 Sofî Hauru Karushifâ Arechi_no_Majo
+Ran
+1985
+162
+2 Action Drama
+4 nm0619938 nm0855417 nm0628704 nm0753480
+4 Lord_Hidetora_Ichimonji Taro_Takatora_Ichimonji Jiro_Masatora_Ichimonji Saburo_Naotora_Ichimonji
+Judgment_at_Nuremberg
+1961
+186
+2 Drama War
+4 nm0000075 nm0000044 nm0001847 nm0000017
+4 Chief_Judge_Dan_Haywood Dr._Ernst_Janning Col._Tad_Lawson Mrs._Bertholt
+The_Secret_in_Their_Eyes
+2009
+129
+3 Drama Mystery Romance
+4 nm0201857 nm0897845 nm0706567 nm3587952
+4 Benjamín_Esposito Irene_Menéndez_Hastings Ricardo_Morales Liliana_Coloto
+The_Gold_Rush
+1925
+95
+3 Adventure Comedy Drama
+8 nm1027682 nm0000122 nm0841501 nm0615306 nm0074788 nm0906618 nm0354913 nm1033900
+8 Eskimo_Child The_Lone_Prospector Big_Jim_McKay Black_Larsen Hank_Curtis Jack_Cameron Georgia Man_in_Dance_Hall
+The_Bridge_on_the_River_Kwai
+1957
+161
+3 Adventure Drama War
+4 nm0000034 nm0000027 nm0370144 nm0370564
+4 Shears Colonel_Nicholson Major_Warden Colonel_Saito
+A_Beautiful_Mind
+2001
+135
+2 Biography Drama
+4 nm0000128 nm0000438 nm0000124 nm0001626
+4 John_Nash Parcher Alicia_Nash Dr._Rosen
+Lock,_Stock_and_Two_Smoking_Barrels
+1998
+107
+2 Comedy Crime
+4 nm0002076 nm0002077 nm0602941 nm0005458
+4 Tom Soap Eddy Bacon
+Casino
+1995
+178
+2 Crime Drama
+4 nm0000134 nm0000232 nm0000582 nm0000249
+4 Sam_'Ace'_Rothstein Ginger_McKenna Nicky_Santoro Lester_Diamond
+The_Seventh_Seal
+1957
+96
+2 Drama Fantasy
+4 nm0001884 nm0085038 nm0252345 nm0691555
+4 Antonius_Block Jöns,_squire Death Jof
+On_the_Waterfront
+1954
+108
+3 Crime Drama Thriller
+4 nm0000008 nm0001500 nm0002011 nm0001768
+4 Terry_Malloy Father_Barry Johnny_Friendly Charley_Malloy
+Three_Billboards_Outside_Ebbing,_Missouri
+2017
+115
+2 Crime Drama
+4 nm0000531 nm0000437 nm0005377 nm2655177
+4 Mildred Willoughby Dixon Red_Welby
+Andhadhun
+2018
+139
+2 Crime Thriller
+4 nm4731677 nm0007102 nm2331000 nm0223521
+4 Akash Simi Sofie Pramod_Sinha
+Inside_Out
+2015
+95
+3 Adventure Animation Comedy
+4 nm0688132 nm0352778 nm0085400 nm1411676
+4 Joy Fear Anger Disgust
+The_Elephant_Man
+1980
+124
+2 Biography Drama
+4 nm0000164 nm0000457 nm0000843 nm0000024
+4 Frederick_Treves John_Merrick Mrs._Kendal Carr_Gomm
+The_Wolf_of_Wall_Street
+2013
+180
+3 Biography Crime Drama
+4 nm0000138 nm1706767 nm3053338 nm0000190
+4 Jordan_Belfort Donnie_Azoff Naomi_Lapaglia Mark_Hanna
+V_for_Vendetta
+2005
+132
+3 Action Drama Sci-Fi
+4 nm0915989 nm0000204 nm0001291 nm0001653
+4 V Evey Dominic Finch
+Room
+2015
+118
+2 Drama Thriller
+4 nm0488953 nm5016878 nm0108703 nm0187724
+4 Ma Jack Old_Nick Talk_Show_Hostess
+Mr._Smith_Goes_to_Washington
+1939
+129
+2 Comedy Drama
+4 nm0000071 nm0000795 nm0001647 nm0036427
+4 Jefferson_Smith Saunders Senator_Joseph_Paine Jim_Taylor
+Warrior
+2011
+140
+2 Drama Sport
+4 nm0362766 nm0000560 nm0249291 nm0607185
+4 Tommy_Conlon Paddy_Conlon Brendan_Conlon Tess_Conlon
+Blade_Runner
+1982
+117
+2 Sci-Fi Thriller
+4 nm0000148 nm0000442 nm0000707 nm0001579
+4 Rick_Deckard Roy_Batty Rachael Gaff
+Dial_M_for_Murder
+1954
+105
+2 Crime Thriller
+4 nm0001537 nm0000038 nm0191950 nm0002369
+4 Tony_Wendice Margot_Wendice Mark_Halliday Chief_Inspector_Hubbard
+No_Country_for_Old_Men
+2007
+122
+3 Crime Drama Thriller
+4 nm0000169 nm0000849 nm0000982 nm0000437
+4 Ed_Tom_Bell Anton_Chigurh Llewelyn_Moss Carson_Wells
+There_Will_Be_Blood
+2007
+158
+1 Drama
+4 nm0000358 nm0200452 nm0001354 nm2872491
+4 Daniel_Plainview Paul_Sunday Fletcher Silver_Assay_Worker
+Wild_Strawberries
+1957
+91
+2 Drama Romance
+4 nm0803705 nm0000761 nm0862026 nm0085038
+4 Dr._Eberhard_Isak_Borg Sara Marianne_Borg Dr._Evald_Borg
+The_General
+1926
+67
+3 Action Adventure Comedy
+4 nm0000036 nm0533045 nm0147070 nm0267650
+4 Johnnie_Gray Annabelle_Lee Captain_Anderson General_Thatcher
+Trainspotting
+1996
+93
+1 Drama
+4 nm0000191 nm0001971 nm0001538 nm0571727
+4 Renton Spud Sick_Boy Tommy
+The_Sixth_Sense
+1999
+107
+3 Drama Mystery Thriller
+4 nm0000246 nm0005286 nm0001057 nm0931404
+4 Malcolm_Crowe Cole_Sear Lynn_Sear Anna_Crowe
+Gone_with_the_Wind
+1939
+238
+3 Drama History Romance
+4 nm0000022 nm0000046 nm0593775 nm0641966
+4 Rhett_Butler_-_Visitor_from_Charleston Scarlett_-_Their_Daughter Gerald_O'Hara Ellen_-_His_Wife
+The_Thing
+1982
+109
+3 Horror Mystery Sci-Fi
+4 nm0000621 nm0000979 nm0202966 nm0557956
+4 MacReady Dr._Blair Childs Clark
+Fargo
+1996
+98
+3 Crime Drama Thriller
+4 nm0000513 nm0000531 nm0000114 nm0001780
+4 Jerry_Lundegaard Marge_Gunderson Carl_Showalter Gaear_Grimsrud
+Come_and_See
+1985
+142
+2 Drama War
+4 nm0470385 nm0592500 nm0490708 nm0046575
+4 Florya_Gaishun Glasha Kosach Roubej
+Gran_Torino
+2008
+116
+1 Drama
+4 nm0000142 nm3057402 nm1542291 nm3115704
+4 Walt_Kowalski Thao Father_Janovich Sue
+Finding_Nemo
+2003
+100
+3 Adventure Animation Comedy
+4 nm0000983 nm0001122 nm1071252 nm0000353
+4 Marlin Dory Nemo Gill
+The_Deer_Hunter
+1978
+183
+2 Drama War
+4 nm0000134 nm0000686 nm0001030 nm0001698
+4 Michael Nick Stan Steven
+Shutter_Island
+2010
+138
+2 Mystery Thriller
+4 nm0000138 nm0607865 nm0749263 nm0001426
+4 Teddy_Daniels Rachel_1 Chuck_Aule Dr._Cawley
+The_Big_Lebowski
+1998
+117
+2 Comedy Crime
+4 nm0000313 nm0000422 nm0000194 nm0000114
+4 The_Dude Walter_Sobchak Maude_Lebowski Theodore_Donald_'Donny'_Kerabatsos
+Sherlock_Jr.
+1924
+45
+3 Action Comedy Romance
+4 nm0000036 nm0570230 nm0444172 nm0175068
+4 Projectionist The_Girl The_Girl's_Father The_Hired_Man
+Kill_Bill:_Vol._1
+2003
+111
+3 Action Crime Thriller
+4 nm0000235 nm0001016 nm0000435 nm0000514
+4 The_Bride Bill Elle_Driver Budd
+Cool_Hand_Luke
+1967
+126
+2 Crime Drama
+4 nm0000056 nm0001421 nm0001510 nm0134201
+4 Luke Dragline Captain Society_Red
+Tokyo_Story
+1953
+136
+1 Drama
+4 nm0753479 nm0383261 nm0945522 nm0361697
+4 Shukichi_Hirayama Tomi_Hirayama Koichi_Hirayama Noriko_Hirayama
+Rebecca
+1940
+130
+3 Drama Mystery Romance
+4 nm0000059 nm0000021 nm0001695 nm0000752
+4 'Maxim'_de_Winter Mrs._de_Winter Jack_Favell Mrs._Danvers
+Mary_and_Max
+2009
+92
+3 Animation Comedy Drama
+4 nm0001057 nm0000450 nm0051509 nm0402032
+4 Mary_Daisy_Dinkle Max_Jerry_Horovitz Damien Narrator
+Hacksaw_Ridge
+2016
+139
+3 Biography Drama History
+4 nm1940449 nm0941777 nm3478396 nm1954240
+4 Desmond_Doss Captain_Glover Smitty_Ryker Dorothy_Schutte
+How_to_Train_Your_Dragon
+2010
+98
+3 Action Adventure Animation
+4 nm0059431 nm0124930 nm2395586 nm0272401
+4 Hiccup Stoick Fishlegs Gobber
+Jurassic_Park
+1993
+127
+3 Adventure Sci-Fi Thriller
+4 nm0000554 nm0000368 nm0000156 nm0000277
+4 Grant Ellie Malcolm Hammond
+Gone_Girl
+2014
+149
+3 Drama Mystery Thriller
+4 nm0000255 nm0683253 nm0000439 nm1347153
+4 Nick_Dunne Amy_Dunne Desi_Collings Tanner_Bolt
+Wild_Tales
+2014
+122
+3 Comedy Drama Thriller
+4 nm0334882 nm0555404 nm0897640 nm0823435
+4 Salgado_(segment_"Pasternak") Isabel_(segment_"Pasternak") Profesora_Leguizamón_(segment_"Pasternak") Ignacio_Fontana_(segment_"Pasternak")
+Sunrise
+1927
+94
+2 Drama Romance
+4 nm0639563 nm0310980 nm0515272 nm0743017
+4 The_Man The_Wife The_Woman_From_the_City The_Maid
+Neon_Genesis_Evangelion:_The_End_of_Evangelion
+1997
+90
+3 Action Animation Drama
+4 nm0644527 nm0370677 nm0594436 nm0594074
+4 Shinji_Ikari Rei_Ayanami Asuka_Langley_Sôryû Misato_Katsuragi
+The_Truman_Show
+1998
+103
+3 Comedy Drama Sci-Fi
+4 nm0000120 nm0000438 nm0001473 nm0001187
+4 Truman_Burbank Christof Meryl_Burbank Marlon
+Stalker
+1979
+162
+2 Drama Sci-Fi
+4 nm0293981 nm0435289 nm0813463 nm0342458
+4 Zhena_Stalkera Stalker Pisatel Professor
+In_the_Name_of_the_Father
+1993
+133
+2 Biography Drama
+4 nm0000358 nm0000592 nm0188949 nm2535022
+4 Gerry_Conlon Giuseppe_Conlon Girl_in_Pub Guildford_Soldier
+The_Grand_Budapest_Hotel
+2014
+99
+3 Adventure Comedy Crime
+4 nm0000146 nm0000719 nm0023832 nm0004778
+4 M._Gustave Mr._Moustafa Serge_X. Dmitri
+Into_the_Wild
+2007
+148
+3 Adventure Biography Drama
+4 nm0386472 nm0000681 nm0001416 nm0001315
+4 Chris_McCandless Wayne_Westerberg Jan_Burres Billie_McCandless
+Stand_by_Me
+1986
+89
+2 Adventure Drama
+4 nm0000696 nm0000203 nm0000397 nm0005278
+4 Gordie_Lachance Chris_Chambers Teddy_Duchamp Vern_Tessio
+It_Happened_One_Night
+1934
+105
+2 Comedy Romance
+5 nm0858977 nm0000022 nm0001055 nm0175369 nm0439850
+5 Westley Peter Ellie Andrews Shapeley
+Platoon
+1986
+120
+2 Drama War
+4 nm0000221 nm0000297 nm0000353 nm0202966
+4 Chris Sgt._Barnes Sgt._Elias King
+Life_of_Brian
+1979
+94
+1 Comedy
+4 nm0001037 nm0000092 nm0001589 nm0000416
+4 Wise_Man_#2 Wise_Man_#1 Wise_Man_#3 Man_Even_Further_Forward
+Network
+1976
+121
+1 Drama
+4 nm0001159 nm0000034 nm0002075 nm0000380
+4 Diana_Christensen Max_Schumacher Howard_Beale Frank_Hackett
+Memories_of_Murder
+2003
+131
+3 Action Crime Drama
+4 nm0814280 nm1235292 nm1323287 nm1138201
+4 Detective_Park_Doo-man Detective_Seo_Tae-yoon Detective_Cho_Yong-koo Sergeant_Shin_Dong-chul
+Persona
+1966
+85
+2 Drama Thriller
+4 nm0000761 nm0880521 nm0472234 nm0085038
+4 Alma Elisabet_Vogler The_Doctor Mr._Vogler
+Ben-Hur
+1959
+212
+3 Adventure Drama History
+4 nm0000032 nm0370144 nm0000963 nm0361823
+4 Judah_Ben-Hur Quintus_Arrius Messala Esther
+The_Bandit
+1996
+128
+3 Crime Drama Thriller
+4 nm0784038 nm0951309 nm0784039 nm0758487
+4 Baran Cumali Keje Emel
+12_Years_a_Slave
+2013
+134
+3 Biography Drama History
+4 nm0252230 nm0931324 nm1055413 nm0000093
+4 Solomon_Northup Robert Edwin_Epps Bass
+Hotel_Rwanda
+2004
+121
+3 Biography Drama History
+4 nm0000332 nm0645683 nm0001618 nm1796730
+4 Paul_Rusesabagina Tatiana_Rusesabagina Jack_Daglish Policeman
+Million_Dollar_Baby
+2004
+132
+2 Drama Sport
+4 nm0005476 nm0000142 nm0000151 nm0059431
+4 Maggie_Fitzgerald Frankie_Dunn Eddie_Scrap-Iron_Dupris Danger_Barch
+Before_Sunrise
+1995
+101
+2 Drama Romance
+4 nm0000160 nm0000365 nm0248600 nm0702541
+4 Jesse Céline Wife_on_Train Husband_on_Train
+Andrei_Rublev
+1966
+205
+3 Biography Drama History
+4 nm0813463 nm0487553 nm0342458 nm0785108
+4 Andrey_Rublev Kirill Daniil_Chyornyy Feofan_Grek
+The_Wages_of_Fear
+1953
+131
+3 Adventure Drama Thriller
+4 nm0598971 nm0889024 nm0886870 nm0525793
+4 Mario M._Jo Bimba Luigi
+Mad_Max:_Fury_Road
+2015
+120
+3 Action Adventure Sci-Fi
+4 nm0362766 nm0000234 nm0396558 nm2368789
+4 Max_Rockatansky Imperator_Furiosa Nux Toast_the_Knowing
+Prisoners
+2013
+153
+3 Crime Drama Mystery
+4 nm0413168 nm0350453 nm0205626 nm0502425
+4 Keller_Dover Detective_Loki Nancy_Birch Holly_Jones
+Rush
+2013
+123
+3 Action Biography Drama
+4 nm0117709 nm1165110 nm1312575 nm0487884
+4 Niki_Lauda James_Hunt Suzy_Miller Marlene_Lauda
+The_400_Blows
+1959
+99
+2 Crime Drama
+4 nm0529543 nm0753716 nm0561158 nm0213948
+4 Antoine_Doinel Julien_Doinel Gilberte_Doinel_-_la_mère_d'Antoine 'Petite_Feuille',_the_French_teacher
+Hachi:_A_Dog's_Tale
+2009
+93
+2 Drama Family
+4 nm0000152 nm0000260 nm0846480 nm2105255
+4 Parker_Wilson Cate_Wilson Ken Andy
+The_Passion_of_Joan_of_Arc
+1928
+110
+3 Biography Drama History
+4 nm0266029 nm0798564 nm0075551 nm0776914
+4 Jeanne_d'Arc Évêque_Pierre_Cauchon_(Bishop_Pierre_Cauchon) Jean_d'Estivet Nicolas_Loyseleur
+Spotlight
+2015
+129
+3 Crime Drama History
+4 nm0749263 nm0000474 nm1046097 nm0000630
+4 Mike_Rezendes Walter_'Robby'_Robinson Sacha_Pfeiffer Marty_Baron
+Logan
+2017
+137
+3 Action Drama Sci-Fi
+4 nm0413168 nm0001772 nm6748436 nm2933542
+4 Logan Charles Laura Pierce
+Amores_Perros
+2000
+154
+2 Drama Thriller
+4 nm0248408 nm0305558 nm0865949 nm0346270
+4 El_Chivo Octavio Valeria Daniel
+Catch_Me_If_You_Can
+2002
+141
+3 Biography Crime Drama
+4 nm0000138 nm0000158 nm0000686 nm0000640
+4 Frank_Abagnale_Jr. Carl_Hanratty Frank_Abagnale Roger_Strong
+The_Princess_Bride
+1987
+98
+3 Adventure Family Fantasy
+4 nm0000144 nm0001597 nm0000705 nm0001697
+4 Westley Inigo_Montoya The_Princess_Bride Prince_Humperdinck
+Nausicaä_of_the_Valley_of_the_Wind
+1984
+117
+3 Adventure Animation Fantasy
+4 nm0793585 nm0875332 nm0477449 nm0623214
+4 Nausicaä Jihl Oh-Baba Yupa
+Harry_Potter_and_the_Deathly_Hallows:_Part_2
+2011
+130
+3 Adventure Drama Fantasy
+4 nm0705356 nm0914612 nm0342488 nm0002091
+4 Harry_Potter Hermione_Granger Ron_Weasley Professor_Albus_Dumbledore
+Rang_De_Basanti
+2006
+157
+2 Comedy Drama
+4 nm0451148 nm1675786 nm1413459 nm0430817
+4 Daljeet_'DJ' Sonia Karan_R._Singhania Sukhi
+Butch_Cassidy_and_the_Sundance_Kid
+1969
+110
+3 Biography Crime Drama
+4 nm0000056 nm0000602 nm0001684 nm0001510
+4 Butch_Cassidy The_Sundance_Kid Etta_Place Percy_Garris
+Rocky
+1976
+120
+2 Drama Sport
+4 nm0000230 nm0001735 nm0949350 nm0001835
+4 Rocky Adrian Paulie Apollo
+Barry_Lyndon
+1975
+185
+3 Adventure Drama History
+4 nm0641939 nm0001943 nm0535861 nm0473228
+4 Barry_Lyndon Lady_Honoria_Lyndon The_Chevalier_du_Balibari Capt._Potzdorf
+Monsters,_Inc.
+2001
+92
+3 Adventure Animation Comedy
+4 nm0000345 nm0000422 nm0316701 nm0000114
+4 Mike Sullivan Boo Randall
+The_Grapes_of_Wrath
+1940
+129
+2 Drama History
+4 nm0000020 nm0002034 nm0001017 nm0335788
+4 Tom_Joad Ma_Joad Jim_Casy Grandpa
+Dead_Poets_Society
+1989
+128
+2 Comedy Drama
+4 nm0000245 nm0000494 nm0000160 nm0001038
+4 John_Keating Neil_Perry Todd_Anderson Knox_Overstreet
+The_Maltese_Falcon
+1941
+100
+2 Film-Noir Mystery
+4 nm0000007 nm0000802 nm0313438 nm0000048
+4 Samuel_Spade Brigid_O'Shaughnessy Iva_Archer Joel_Cairo
+The_Terminator
+1984
+107
+2 Action Sci-Fi
+4 nm0000216 nm0000157 nm0000299 nm0934902
+4 Terminator Sarah_Connor Kyle_Reese Lieutenant_Ed_Traxler
+Gandhi
+1982
+191
+3 Biography Drama History
+4 nm0001426 nm0000024 nm0368990 nm0786022
+4 Mahatma_Gandhi Lord_Irwin Kasturba_Gandhi Pandit_Nehru
+Donnie_Darko
+2001
+113
+3 Drama Sci-Fi Thriller
+4 nm0350453 nm0540441 nm0001521 nm0651660
+4 Donnie_Darko Gretchen_Ross Rose_Darko Eddie_Darko
+Diabolique
+1955
+117
+3 Crime Drama Horror
+4 nm0797531 nm0167243 nm0582890 nm0889024
+4 Nicole_Horner Christina_Delassalle Michel_Delassalle Alfred_Fichet,_le_commissaire
+La_Haine
+1995
+98
+2 Crime Drama
+4 nm0001993 nm0468003 nm0846548 nm0315760
+4 Vinz Hubert Saïd Abdel
+The_Handmaiden
+2016
+145
+3 Drama Romance Thriller
+4 nm1195119 nm1978402 nm2437361 nm0600668
+4 Lady_Hideko Count_Fujiwara Uncle_Kouzuki Aunt_of_Lady_Hideko
+In_the_Mood_for_Love
+2000
+98
+2 Drama Romance
+4 nm0504897 nm0001041 nm0803310 nm0156432
+4 Chow_Mo-wan Su_Li-zhen_-_Mrs._Chan Ah_Ping Man_living_in_Mr._Koo's_apartment
+Groundhog_Day
+1993
+101
+3 Comedy Fantasy Romance
+4 nm0000195 nm0000510 nm0254402 nm0864997
+4 Phil Rita Larry Ned
+The_Wizard_of_Oz
+1939
+102
+3 Adventure Family Fantasy
+4 nm0000023 nm0604656 nm0001961 nm0481618
+4 Dorothy Professor_Marvel 'Hunk' 'Zeke'
+The_Help
+2011
+146
+1 Drama
+4 nm1297015 nm0205626 nm0818055 nm0397171
+4 Skeeter_Phelan Aibileen_Clark Minny_Jackson Hilly_Holbrook
+Jaws
+1975
+124
+3 Adventure Drama Thriller
+4 nm0001702 nm0001727 nm0000377 nm0308882
+4 Chief_Martin_Brody Quint Matt_Hooper Ellen_Brody
+The_Nights_of_Cabiria
+1957
+110
+1 Drama
+4 nm0556399 nm0673749 nm0555807 nm0336582
+4 Maria_'Cabiria'_Ceccarelli Oscar_D'Onofrio Wanda Jessy
+Before_Sunset
+2004
+80
+2 Drama Romance
+4 nm0000160 nm0000365 nm0229943 nm1195302
+4 Jesse Celine Bookstore_Manager Journalist_#1
+Paris,_Texas
+1984
+145
+1 Drama
+4 nm0001765 nm0000176 nm0001777 nm0167467
+4 Travis_Henderson Jane_Henderson Walt_Henderson Anne_Henderson
+Castle_in_the_Sky
+1986
+125
+3 Adventure Animation Drama
+4 nm0001593 nm0004735 nm0001458 nm0000434
+4 Sheeta Pazu Dola Muska
+Guardians_of_the_Galaxy
+2014
+121
+3 Action Adventure Comedy
+4 nm0695435 nm0004874 nm0177896 nm0757855
+4 Peter_Quill Groot Rocket Gamora
+The_Best_Years_of_Our_Lives
+1946
+170
+3 Drama Romance War
+4 nm0001485 nm0000763 nm0545298 nm0942863
+4 Milly_Stephenson Fred_Derry Al_Stephenson Peggy_Stephenson
+Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl
+2003
+143
+3 Action Adventure Fantasy
+4 nm0000136 nm0001691 nm0089217 nm0461136
+4 Jack_Sparrow Barbossa Will_Turner Elizabeth_Swann
+Beauty_and_the_Beast
+1991
+84
+3 Animation Family Fantasy
+4 nm0641314 nm0000913 nm0181425 nm0263591
+4 Belle Beast Lefou Maurice
+Song_of_the_Sea
+2014
+93
+3 Adventure Animation Drama
+4 nm5146515 nm0322407 nm1907066 nm0001217
+4 Ben Conor Bronach Granny
+The_Exorcist
+1973
+122
+1 Horror
+4 nm0000995 nm0001884 nm0000304 nm0002011
+4 Chris_MacNeil Father_Merrin Regan Lt._William_Kinderman
+Three_Colors:_Red
+1994
+99
+3 Drama Mystery Romance
+4 nm0001393 nm0004462 nm0270073 nm0521051
+4 Valentine Le_juge_Joseph_Kern Karin Auguste
+PK
+2014
+153
+3 Comedy Drama Fantasy
+4 nm0451148 nm3087728 nm0004569 nm1224082
+4 P.K. Jagat_Janani Bhairon_Singh Cherry_Bajwa
+Akira
+1988
+124
+3 Animation Drama Sci-Fi
+4 nm0412628 nm0765815 nm0468708 nm0312656
+4 Kaneda Tetsuo Kei Ryu
+Gangs_of_Wasseypur
+2012
+321
+3 Action Comedy Crime
+4 nm0048075 nm3190246 nm1596350 nm0223606
+4 Sardar_Khan Nagma_Khatoon Faizal_Khan Ramadhir_Singh
