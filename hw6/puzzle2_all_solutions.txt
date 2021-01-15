@@ -1,0 +1,68 @@
+     1    2    3    4    5    6    7
+  +----+----+----+----+----+----+----+
+  |                                  |
+ 1| B                                |
+  |                                  |
+  +    +    +    +----+    +    +    +
+  |              |                   |
+ 2|           A  |                   |
+  |              |                   |
+  +    +    +----+    +    +    +    +
+  |                                  |
+ 3|                           b      |
+  |                                  |
+  +    +    +    +    +    +    +    +
+  |                                  |
+ 4|                               C  |
+  |                                  |
+  +----+----+----+----+----+----+----+
+6 different 6 move solutions:
+
+robot A moves north
+robot A moves east
+robot A moves south
+robot C moves west
+robot B moves south
+robot B moves east
+All goals are satisfied after 6 moves
+
+robot A moves north
+robot C moves north
+robot A moves east
+robot A moves south
+robot B moves east
+robot B moves south
+All goals are satisfied after 6 moves
+
+robot A moves west
+robot A moves south
+robot A moves east
+robot C moves north
+robot B moves east
+robot B moves south
+All goals are satisfied after 6 moves
+
+robot A moves west
+robot C moves west
+robot A moves south
+robot A moves east
+robot B moves south
+robot B moves east
+All goals are satisfied after 6 moves
+
+robot C moves north
+robot A moves north
+robot A moves east
+robot A moves south
+robot B moves east
+robot B moves south
+All goals are satisfied after 6 moves
+
+robot C moves west
+robot A moves west
+robot A moves south
+robot A moves east
+robot B moves south
+robot B moves east
+All goals are satisfied after 6 moves
+
