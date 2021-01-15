@@ -1,0 +1,52 @@
+
+event POLE_VAULT
+Andrei Krauchanka BLR 5.00
+Bryan Clay USA 5.00
+Leonel Suarez CUB 4.70
+
+event JAVELIN_THROW
+Leonel Suarez CUB 73.98
+Bryan Clay USA 70.97
+Andrei Krauchanka BLR 60.23
+
+event 1500_METERS
+Andrei Krauchanka BLR 4:27.47
+Leonel Suarez CUB 4:29.17
+Bryan Clay USA 5:06.59
+
+event SHOT_PUT
+Bryan Clay USA 16.27
+Leonel Suarez CUB 14.49
+Andrei Krauchanka BLR 14.39
+
+event HIGH_JUMP
+Andrei Krauchanka BLR 2.11
+Leonel Suarez CUB 2.05
+Bryan Clay USA 1.99
+
+event 400_METERS
+Andrei Krauchanka BLR 47.30
+Leonel Suarez CUB 47.91
+Bryan Clay USA 48.92
+
+event 110_METERS_HURDLES
+Bryan Clay USA 13.93 
+Leonel Suarez CUB 14.15 
+Andrei Krauchanka BLR 14.21 
+
+event DISCUS_THROW
+Bryan Clay USA 53.79
+Andrei Krauchanka BLR 44.58
+Leonel Suarez CUB 44.45
+
+event 100_METERS
+Bryan Clay USA 10.44
+Leonel Suarez CUB 10.90 
+Andrei Krauchanka BLR 10.96 
+
+event LONG_JUMP
+Bryan Clay USA 7.78
+Andrei Krauchanka BLR 7.61 
+Leonel Suarez CUB 7.33
+
+

@@ -1,0 +1,349 @@
+
+
+event POLE_VAULT
+Andre Niklaus GER 5.20
+Aleksey Drozdov RUS 5.10
+Andrei Krauchanka BLR 5.00
+Alexander Pogorelov RUS 5.00
+Bryan Clay USA 5.00
+Romain Barras FRA 5.00
+Daniel Awde GBR 4.90
+Andres Raja EST 4.80
+Roman Sebrle CZE 4.80
+Mikk Pahapill EST 4.80
+Michael Schrader GER 4.80
+Aliaksandr Parkhomenka BLR 4.70
+Massimo Bertocchi CAN 4.70
+Eugene Martineau NED 4.70
+Yordani Garcia CUB 4.70
+Leonel Suarez CUB 4.70
+Mikalai Shubianok BLR 4.60
+Maurice Smith JAM 4.60
+Qi Haifeng CHN 4.30
+Oleksiy Kasyanov UKR 4.30
+Jangy Addy LBR 4.20
+Damjan Sitar SVN 4.00
+Slaven Dizdarevic SVK 4.00
+Hadi Sepehrzad IRN 4.00
+
+
+
+event JAVELIN_THROW
+Leonel Suarez CUB 73.98
+Eugene Martineau NED 71.44
+Bryan Clay USA 70.97
+Andres Raja EST 67.16
+Mikk Pahapill EST 67.07
+Yordani Garcia CUB 65.60
+Romain Barras FRA 65.40
+Aliaksandr Parkhomenka BLR 64.60
+Alexander Pogorelov RUS 64.01
+Roman Sebrle CZE 63.93
+Qi Haifeng CHN 63.09
+Aleksey Drozdov RUS 62.57
+David Gomez ESP 62.22
+Mikalai Shubianok BLR 62.10
+Michael Schrader GER 60.27
+Andrei Krauchanka BLR 60.23
+Andre Niklaus GER 60.21
+Mikko Halvari FIN 55.11
+Daniel Awde GBR 53.18
+Jangy Addy LBR 52.50
+Oleksiy Kasyanov UKR 51.59
+Maurice Smith JAM 51.52
+Hadi Sepehrzad IRN 49.56
+Damjan Sitar SVN 47.23
+Massimo Bertocchi CAN 45.33
+Slaven Dizdarevic SVK 43.58
+
+
+
+event 1500_METERS
+Michael Schrader GER 4:26.77
+Andrei Krauchanka BLR 4:27.47
+Oleksiy Kasyanov UKR 4:28.94
+Leonel Suarez CUB 4:29.17
+Romain Barras FRA 4:29.29
+David Gomez ESP 4:30.74
+Maurice Smith JAM 4:31.62
+Andre Niklaus GER 4:32.90
+Damjan Sitar SVN 4:37.37
+Eugene Martineau NED 4:37.96
+Mikalai Shubianok BLR 4:38.14
+Qi Haifeng CHN 4:39.32
+Aleksey Drozdov RUS 4:41.34
+Massimo Bertocchi CAN 4:42.26
+Daniel Awde GBR 4:44.80
+Aliaksandr Parkhomenka BLR 4:45.17
+Mikk Pahapill EST 4:47.03
+Andres Raja EST 4:49.60
+Roman Sebrle CZE 4:49.63
+Slaven Dizdarevic SVK 4:51.42
+Yordani Garcia CUB 5:00.49
+Alexander Pogorelov RUS 5:01.56
+Bryan Clay USA 5:06.59
+Hadi Sepehrzad IRN 5:06.67
+Jangy Addy LBR 5:12.22
+Mikko Halvari FIN 5:20.26
+
+
+event SHOT_PUT
+Alexander Pogorelov RUS 16.53
+Bryan Clay USA 16.27
+Aleksey Drozdov RUS 16.26
+Hadi Sepehrzad IRN 16.02
+Yordani Garcia CUB 15.82
+Aliaksandr Parkhomenka BLR 15.49
+Alexey Sysoev RUS 15.42
+Romain Barras FRA 15.42
+Oleksiy Kasyanov UKR 15.15
+Maurice Smith JAM 15.09
+Jangy Addy LBR 14.91
+Mikalai Shubianok BLR 14.88
+Hans Van_Alphen BEL 14.86
+Janis Karlivans LAT 14.85
+Andres Raja EST 14.79
+Roman Sebrle CZE 14.78
+Leonel Suarez CUB 14.49
+Andrei Krauchanka BLR 14.39
+Mikk Pahapill EST 14.36
+Pavel Andreev UZB 14.15
+Massimo Bertocchi CAN 14.10
+Frederic Xhonneux BEL 13.99
+Slaven Dizdarevic SVK 13.97
+Eugene Martineau NED 13.78
+Mikko Halvari FIN 13.72
+Michael Schrader GER 13.67
+David Gomez ESP 13.58
+Arthur Abele GER 13.55
+Vitaliy Smirnov UZB 13.51
+Trey Hardee USA 13.49
+Victor Covalenco MDA 13.44
+Qi Haifeng CHN 13.40
+Andre Niklaus GER 13.23
+Gonzalo Barroilhet CHL 13.23
+Damjan Sitar SVN 12.41
+Daniel Awde GBR 12.03
+
+
+event HIGH_JUMP
+Roman Sebrle CZE 2.11
+Mikk Pahapill EST 2.11
+Andrei Krauchanka BLR 2.11
+Alexey Sysoev RUS 2.11
+Alexander Pogorelov RUS 2.08
+Damjan Sitar SVN 2.05
+Leonel Suarez CUB 2.05
+Trey Hardee USA 2.05
+Andre Niklaus GER 2.05
+Aleksey Drozdov RUS 2.02
+Bryan Clay USA 1.99
+Mikalai Shubianok BLR 1.99
+Carlos Chinin BRA 1.99
+Pavel Andreev UZB 1.99
+Maurice Smith JAM 1.99
+Eugene Martineau NED 1.99
+Michael Schrader GER 1.99
+Yordani Garcia CUB 1.96
+Andres Raja EST 1.96
+Slaven Dizdarevic SVK 1.96
+Oleksiy Kasyanov UKR 1.96
+Romain Barras FRA 1.96
+Aliaksandr Parkhomenka BLR 1.93
+Mikko Halvari FIN 1.93
+Qi Haifeng CHN 1.93
+Jangy Addy LBR 1.93
+Gonzalo Barroilhet CHL 1.93
+Frederic Xhonneux BEL 1.90
+Massimo Bertocchi CAN 1.90
+Arthur Abele GER 1.90
+Hadi Sepehrzad IRN 1.90
+Hans Van_Alphen BEL 1.84
+Janis Karlivans LAT 1.84
+Victor Covalenco MDA 1.81
+David Gomez ESP 1.81
+Daniel Awde GBR 1.78
+
+
+
+event 400_METERS
+Daniel Awde GBR 47.16
+Andrei Krauchanka BLR 47.30
+Oleksiy Kasyanov UKR 47.70
+Trey Hardee USA 47.75
+Leonel Suarez CUB 47.91
+Maurice Smith JAM 47.96
+Michael Schrader GER 48.47
+Jangy Addy LBR 48.51
+Massimo Bertocchi CAN 48.72
+Bryan Clay USA 48.92
+Andres Raja EST 48.98
+Carlos Chinin BRA 49.21
+David Gomez ESP 49.27
+Qi Haifeng CHN 49.39
+Romain Barras FRA 49.51
+Roman Sebrle CZE 49.54
+Andre Niklaus GER 49.65
+Yordani Garcia CUB 49.66
+Eugene Martineau NED 49.99
+Mikalai Shubianok BLR 50.02
+Damjan Sitar SVN 50.10
+Mikko Halvari FIN 50.60
+Aliaksandr Parkhomenka BLR 50.71
+Alexey Sysoev RUS 50.71
+Hadi Sepehrzad IRN 50.75
+Mikk Pahapill EST 50.90
+Alexander Pogorelov RUS 50.91
+Aleksey Drozdov RUS 51.56
+Janis Karlivans LAT 51.61
+Gonzalo Barroilhet CHL 51.91
+Slaven Dizdarevic SVK 52.02
+
+
+event 110_METERS_HURDLES
+Yordani Garcia CUB 13.90 
+Bryan Clay USA 13.93 
+Andres Raja EST 14.06 
+Maurice Smith JAM 14.08 
+Leonel Suarez CUB 14.15 
+Trey Hardee USA 14.20 
+Andrei Krauchanka BLR 14.21 
+Romain Barras FRA 14.21 
+Gonzalo Barroilhet CHL 14.26 
+Jangy Addy LBR 14.31 
+Massimo Bertocchi CAN 14.32 
+Oleksiy Kasyanov UKR 14.37 
+Andre Niklaus GER 14.37 
+Alexander Pogorelov RUS 14.47 
+Mikk Pahapill EST 14.51 
+Mikalai Shubianok BLR 14.52 
+Qi Haifeng CHN 14.60 
+David Gomez ESP 14.61 
+Hadi Sepehrzad IRN 14.64 
+Daniel Awde GBR 14.69 
+Roman Sebrle CZE 14.71 
+Michael Schrader GER 14.71 
+Eugene Martineau NED 14.73 
+Damjan Sitar SVN 15.03 
+Aliaksandr Parkhomenka BLR 15.06 
+Janis Karlivans LAT 15.28 
+Aleksey Drozdov RUS 15.51 
+Slaven Dizdarevic SVK 15.61 
+Mikko Halvari FIN 16.25 
+
+event DISCUS_THROW
+Bryan Clay USA 53.79
+Maurice Smith JAM 50.91
+Hadi Sepehrzad IRN 50.32
+Alexander Pogorelov RUS 50.04
+Mikk Pahapill EST 49.35
+Oleksiy Kasyanov UKR 48.39
+Mikko Halvari FIN 47.71
+Aleksey Drozdov RUS 47.43
+Qi Haifeng CHN 46.46
+Gonzalo Barroilhet CHL 46.07
+Mikalai Shubianok BLR 45.80
+Roman Sebrle CZE 45.50
+Andre Niklaus GER 45.39
+Aliaksandr Parkhomenka BLR 45.27
+Romain Barras FRA 45.17
+Massimo Bertocchi CAN 44.91
+Andrei Krauchanka BLR 44.58
+Janis Karlivans LAT 44.54
+Leonel Suarez CUB 44.45
+Eugene Martineau NED 44.09
+Trey Hardee USA 43.55
+Jangy Addy LBR 42.30
+Michael Schrader GER 40.41
+David Gomez ESP 40.17
+Slaven Dizdarevic SVK 39.86
+Andres Raja EST 39.83
+Damjan Sitar SVN 39.25
+Daniel Awde GBR 37.12
+Yordani Garcia CUB 36.73
+
+
+event 100_METERS
+Bryan Clay USA 10.44
+Trey Hardee USA 10.52
+Oleksiy Kasyanov UKR 10.53
+Yordani Garcia CUB 10.64 
+Jangy Addy LBR 10.76
+Michael Schrader GER 10.80
+Maurice Smith JAM 10.85 
+Andres Raja EST 10.89 
+Arthur Abele GER 10.90
+Leonel Suarez CUB 10.90 
+Hadi Sepehrzad IRN 10.92 
+Andrei Krauchanka BLR 10.96 
+Carlos Chinin BRA 10.99 
+Massimo Bertocchi CAN 11.00
+Aleksey Drozdov RUS 11.02 
+Alexey Sysoev RUS 11.03 
+Daniel Awde GBR 11.06 
+Alexander Pogorelov RUS 11.07 
+Andre Niklaus GER 11.12 
+David Gomez ESP 11.12 
+Tom Pappas USA 11.12 
+Qi Haifeng CHN 11.15 
+Mikk Pahapill EST 11.15 
+Slaven Dizdarevic SVK 11.16 
+Mikko Halvari FIN 11.18 
+Eugene Martineau NED 11.19 
+Roman Sebrle CZE 11.21 
+Damjan Sitar SVN 11.21 
+Romain Barras FRA 11.26 
+Hans Van_Alphen BEL 11.28 
+Aliaksandr Parkhomenka BLR 11.29 
+Mikalai Shubianok BLR 11.31 
+Gonzalo Barroilhet CHL 11.33 
+Janis Karlivans LAT 11.36 
+Frederic Xhonneux BEL 11.41 
+Pavel Andreev UZB 11.47 
+Vitaliy Smirnov UZB 11.56 
+Dmitriy Karpov KAZ 11.83
+Attila Zsivoczky HUN 11.86 
+Victor Covalenco MDA 11.87 
+
+
+event LONG_JUMP
+Bryan Clay USA 7.78
+Trey Hardee USA 7.72 
+Michael Schrader GER 7.70 
+Roman Sebrle CZE 7.68
+Andrei Krauchanka BLR 7.61 
+Oleksiy Kasyanov UKR 7.56
+Tom Pappas USA 7.41
+Jangy Addy LBR 7.38
+Alexander Pogorelov RUS 7.37
+Leonel Suarez CUB 7.33
+Andre Niklaus GER 7.29
+Andres Raja EST 7.29
+Janis Karlivans LAT 7.26
+Damjan Sitar SVN 7.25 
+Aleksey Drozdov RUS 7.23 
+Qi Haifeng CHN 7.22
+Eugene Martineau NED 7.19
+Daniel Awde GBR 7.12
+Romain Barras FRA 7.08
+Gonzalo Barroilhet CHL 7.08
+Yordani Garcia CUB 7.07
+Massimo Bertocchi CAN 7.05 
+Maurice Smith JAM 7.04 
+Mikk Pahapill EST 7.04
+Slaven Dizdarevic SVK 7.02
+Aliaksandr Parkhomenka BLR 6.99
+Frederic Xhonneux BEL 6.94
+Carlos Chinin BRA 6.94
+Mikko Halvari FIN 6.88 
+Mikalai Shubianok BLR 6.86
+David Gomez ESP 6.85
+Hadi Sepehrzad IRN 6.80
+Alexey Sysoev RUS 6.77
+Pavel Andreev UZB 6.62 
+Hans Van_Alphen BEL 6.55
+Victor Covalenco MDA 6.50
+Arthur Abele GER 6.47
+
+
+

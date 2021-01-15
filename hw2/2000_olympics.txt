@@ -1,0 +1,334 @@
+event 100_METERS
+
+Aki Heikkinen FIN 11.15
+Aleksandr Yurkov UKR 10.89
+Attila Zsivoczky HUN 11.1
+Chris Huffins USA 10.48
+Claston Bernard JAM 10.79
+Dean Macey GBR 10.81
+Eduard Hamalainen FIN 11.01
+Erki Nool EST 10.68
+Eugenio Balanqu CUB 10.87
+Fedor Laukhin UKR 11.21
+Francisco-Javier Benet ESP 11.42
+Frank Busemann GER 10.91
+Henrik Dagard SWE 10.84
+Indrek Kaseorg EST 11.31
+Jiri Ryba CZE 11.14
+Jon-Arnar Magnusson ISL 10.85
+Kip Janvrin USA 11.26
+Klaus Ambrosch AUT 11.01
+Laurent Hernu FRA 11.19
+Lev Lobodin RUS 10.75
+Mario Anibal POR 10.97
+Mike Maczey GER 11.17
+Oleg Veretelnikov UZB 12.17
+Philipp Huber SUI 11.35
+Prodromos Korkizoglou GRE 10.74
+Raul Duany CUB 11.09
+Roman Razbeyko RUS 11.45
+Roman Sebrle CZE 10.92
+Sebastien Levicq FRA 11.48
+Scott Ferrier AUS 11.11
+Stefan Schmid GER 10.94
+Tom Pappas USA 10.82
+Tomas Dvorak CZE 10.91
+Trond Hoiby NOR 11.56
+Vladimir Mikhailenko UKR 11.1
+Wilfrid Boulineau FRA 11.07
+Georgios Andreou CYP 10.97
+Zsolt Kurtosi HUN 11
+
+
+event LONG_JUMP
+
+Aleksandr Yurkov UKR 6.68
+Attila Zsivoczky HUN 7
+Chris Huffins USA 7.71
+Dean Macey GBR 7.77
+Eduard Hamalainen FIN 7.19
+Erki Nool EST 7.76
+Eugenio Balanqu CUB 6.19
+Fedor Laukhin UKR 7.01
+Francisco-Javier Benet ESP 6.32
+Frank Busemann GER 7.64
+Henrik Dagard SWE 7.08
+Indrek Kaseorg EST 7.22
+Jiri Ryba CZE 7.1
+Kip Janvrin USA 6.63
+Klaus Ambrosch AUT 7.17
+Laurent Hernu FRA 7.14
+Lev Lobodin RUS 7.18
+Mario Anibal POR 6.9
+Mike Maczey GER 7.1
+Prodromos Korkizoglou GRE 7.16
+Raul Duany CUB 7.33
+Roman Razbeyko RUS 6.82
+Roman Sebrle CZE 7.62
+Sebastien Levicq FRA 6.57
+Scott Ferrier AUS 7.19
+Stefan Schmid GER 7.17
+Tom Pappas USA 7.41
+Tomas Dvorak CZE 7.5
+Trond Hoiby NOR 6.22
+Vladimir Mikhailenko UKR 7.04
+Wilfrid Boulineau FRA 7.08
+Georgios Andreou CYP 6.73
+Zsolt Kurtosi HUN 7.19
+
+
+event SHOT_PUT
+
+Aki Heikkinen FIN 13.37
+Aleksandr Yurkov UKR 14.78
+Attila Zsivoczky HUN 14.96
+Chris Huffins USA 15.27
+Claston Bernard JAM 13.68
+Dean Macey GBR 14.62
+Eduard Hamalainen FIN 14.06
+Erki Nool EST 15.11
+Eugenio Balanqu CUB 14.9
+Fedor Laukhin UKR 13.16
+Frank Busemann GER 14.52
+Henrik Dagard SWE 14.97
+Indrek Kaseorg EST 13.26
+Jiri Ryba CZE 14.21
+Jon-Arnar Magnusson ISL 15.48
+Kip Janvrin USA 13.57
+Klaus Ambrosch AUT 15.3
+Laurent Hernu FRA 13.54
+Lev Lobodin RUS 15.75
+Mario Anibal POR 15.39
+Mike Maczey GER 13.84
+Prodromos Korkizoglou GRE 13.7
+Raul Duany CUB 13.34
+Roman Razbeyko RUS 13.98
+Roman Sebrle CZE 15.22
+Sebastien Levicq FRA 13.53
+Scott Ferrier AUS 13.5
+Stefan Schmid GER 14.04
+Tom Pappas USA 14.87
+Tomas Dvorak CZE 15.91
+Trond Hoiby NOR 14.03
+Vladimir Mikhailenko UKR 13.53
+Wilfrid Boulineau FRA 13.38
+Georgios Andreou CYP 14.24
+Zsolt Kurtosi HUN 15.13
+
+
+event HIGH_JUMP
+
+Aleksandr Yurkov UKR 1.97
+Attila Zsivoczky HUN 2.06
+Chris Huffins USA 2.09
+Claston Bernard JAM 2.09
+Dean Macey GBR 2.09
+Eduard Hamalainen FIN 1.85
+Erki Nool EST 2
+Eugenio Balanqu CUB 1.94
+Fedor Laukhin UKR 2.03
+Frank Busemann GER 2.09
+Henrik Dagard SWE 1.94
+Indrek Kaseorg EST 1.97
+Jiri Ryba CZE 2
+Kip Janvrin USA 1.85
+Klaus Ambrosch AUT 1.91
+Laurent Hernu FRA 2.06
+Lev Lobodin RUS 1.94
+Mario Anibal POR 2.03
+Mike Maczey GER 2.03
+Prodromos Korkizoglou GRE 1.97
+Raul Duany CUB 2.06
+Roman Razbeyko RUS 1.97
+Roman Sebrle CZE 2.12
+Scott Ferrier AUS 1.97
+Stefan Schmid GER 2
+Tom Pappas USA 2.21
+Tomas Dvorak CZE 1.97
+Vladimir Mikhailenko UKR 2.06
+Wilfrid Boulineau FRA 2.03
+Zsolt Kurtosi HUN 2
+
+
+event 400_METERS
+
+Aleksandr Yurkov UKR 48.66
+Attila Zsivoczky HUN 48.61
+Chris Huffins USA 48.31
+Claston Bernard JAM 49.77
+Dean Macey GBR 46.41
+Eduard Hamalainen FIN 48.14
+Erki Nool EST 46.71
+Eugenio Balanqu CUB 48.23
+Fedor Laukhin UKR 49.64
+Frank Busemann GER 48.97
+Henrik Dagard SWE 48.75
+Indrek Kaseorg EST 50.03
+Jiri Ryba CZE 48.97
+Kip Janvrin USA 49.12
+Klaus Ambrosch AUT 50.23
+Laurent Hernu FRA 50.63
+Lev Lobodin RUS 48.87
+Mario Anibal POR 48.71
+Mike Maczey GER 49.91
+Prodromos Korkizoglou GRE 53.57
+Raul Duany CUB 49.73
+Roman Sebrle CZE 48.2
+Stefan Schmid GER 48.61
+Tom Pappas USA 48.64
+Tomas Dvorak CZE 49.11
+Vladimir Mikhailenko UKR 48.8
+Wilfrid Boulineau FRA 49.82
+Zsolt Kurtosi HUN 48.81
+
+
+event 110_METERS_HURDLES
+
+Aleksandr Yurkov UKR 15.02
+Attila Zsivoczky HUN 15.27
+Chris Huffins USA 13.91
+Claston Bernard JAM 15.01
+Dean Macey GBR 14.53
+Eduard Hamalainen FIN 14.37
+Erki Nool EST 14.48
+Eugenio Balanqu CUB 14.36
+Fedor Laukhin UKR 15.16
+Frank Busemann GER 14.16
+Henrik Dagard SWE 14.3
+Indrek Kaseorg EST 14.57
+Jiri Ryba CZE 14.99
+Kip Janvrin USA 15.15
+Klaus Ambrosch AUT 14.92
+Laurent Hernu FRA 14.51
+Lev Lobodin RUS 14.02
+Mario Anibal POR 14.71
+Raul Duany CUB 14.44
+Roman Sebrle CZE 13.87
+Stefan Schmid GER 14.38
+Tom Pappas USA 14.15
+Tomas Dvorak CZE 14.34
+Vladimir Mikhailenko UKR 14.84
+Wilfrid Boulineau FRA 15.02
+Zsolt Kurtosi HUN 14.15
+
+
+event DISCUS_THROW
+
+Aleksandr Yurkov UKR 48.67
+Attila Zsivoczky HUN 47.43
+Chris Huffins USA 49.55
+Claston Bernard JAM 41.15
+Dean Macey GBR 43.37
+Eduard Hamalainen FIN 35.98
+Erki Nool EST 43.66
+Eugenio Balanqu CUB 46.56
+Fedor Laukhin UKR 38.33
+Frank Busemann GER 33.71
+Henrik Dagard SWE 42.95
+Indrek Kaseorg EST 41.98
+Jiri Ryba CZE 42.83
+Kip Janvrin USA 42.2
+Klaus Ambrosch AUT 41.22
+Laurent Hernu FRA 41.78
+Lev Lobodin RUS 44.55
+Mario Anibal POR 45.01
+Mike Maczey GER 43.64
+Raul Duany CUB 41.17
+Roman Sebrle CZE 44.39
+Stefan Schmid GER 40.81
+Tom Pappas USA 41.42
+Tomas Dvorak CZE 47.15
+Vladimir Mikhailenko UKR 40.45
+Wilfrid Boulineau FRA 39.86
+Zsolt Kurtosi HUN 46.62
+
+
+event POLE_VAULT
+
+Aleksandr Yurkov UKR 5
+Attila Zsivoczky HUN 4.8
+Chris Huffins USA 4.7
+Dean Macey GBR 4.8
+Eduard Hamalainen FIN 4.8
+Erki Nool EST 5
+Fedor Laukhin UKR 4.9
+Frank Busemann GER 5
+Henrik Dagard SWE 5.1
+Indrek Kaseorg EST 4.8
+Jiri Ryba CZE 4.9
+Kip Janvrin USA 5
+Klaus Ambrosch AUT 4.6
+Laurent Hernu FRA 5
+Lev Lobodin RUS 5
+Mario Anibal POR 4.9
+Mike Maczey GER 5.1
+Raul Duany CUB 4.6
+Roman Sebrle CZE 4.8
+Stefan Schmid GER 5
+Tom Pappas USA 4.9
+Tomas Dvorak CZE 4.4
+Vladimir Mikhailenko UKR 4.6
+Wilfrid Boulineau FRA 4.8
+Zsolt Kurtosi HUN 4.8
+
+
+event JAVELIN_THROW
+
+Aleksandr Yurkov UKR 54.77
+Attila Zsivoczky HUN 65.87
+Chris Huffins USA 56.62
+Dean Macey GBR 60.38
+Eduard Hamalainen FIN 47.11
+Erki Nool EST 65.82
+Fedor Laukhin UKR 55.53
+Frank Busemann GER 64.91
+Henrik Dagard SWE 65.05
+Indrek Kaseorg EST 66.54
+Jiri Ryba CZE 57.76
+Kip Janvrin USA 56.84
+Klaus Ambrosch AUT 67.94
+Laurent Hernu FRA 56.34
+Lev Lobodin RUS 50.16
+Mario Anibal POR 57.51
+Mike Maczey GER 61.49
+Raul Duany CUB 64.31
+Roman Sebrle CZE 64.04
+Stefan Schmid GER 67.03
+Tom Pappas USA 62.26
+Tomas Dvorak CZE 69.94
+Vladimir Mikhailenko UKR 47.27
+Wilfrid Boulineau FRA 59.69
+Zsolt Kurtosi HUN 57.16
+
+
+event 1500_METERS
+
+Aleksandr Yurkov UKR 4:39.94
+Attila Zsivoczky HUN 4:23.37
+Chris Huffins USA 4:38.71
+Dean Macey GBR 4:23.45
+Eduard Hamalainen FIN 4:54.18
+Erki Nool EST 4:29.48
+Fedor Laukhin UKR 4:41.48
+Frank Busemann GER 4:25.32
+Henrik Dagard SWE 4:49.51
+Indrek Kaseorg EST 4:35.64
+Jiri Ryba CZE 4:18.21
+Kip Janvrin USA 4:17.81
+Klaus Ambrosch AUT 4:40.94
+Laurent Hernu FRA 4:37.82
+Lev Lobodin RUS 4:50.73
+Mario Anibal POR 4:32.68
+Mike Maczey GER 4:27.99
+Raul Duany CUB 4:29.68
+Roman Sebrle CZE 4:28.79
+Stefan Schmid GER 4:36.49
+Tom Pappas USA 4:45.1
+Tomas Dvorak CZE 4:32.23
+Vladimir Mikhailenko UKR 4:36.23
+Wilfrid Boulineau FRA 4:35.59
+Zsolt Kurtosi HUN 4:43.39
+
+
+
+

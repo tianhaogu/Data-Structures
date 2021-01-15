@@ -1,0 +1,315 @@
+
+event               100_METERS
+
+Ashton              Eaton               USA                 10.35
+Trey                Hardee              USA                 10.42
+Damian              Warner              CAN                 10.48
+Oleksiy             Kasyanov            UKR                 10.56
+Rico                Freimuth            GER                 10.65
+Luiz_Alberto        De_Araujo           BRA                 10.7
+Daniel              Awde                GBR                 10.71
+Eduard              Mikhan              BLR                 10.74
+Sergey              Sviridov            RUS                 10.78
+Yordani             Garcia              CUB                 10.8
+Eelco               Sintnicolaas        NED                 10.85
+Jangy               Addy                LBR                 10.89
+Mihail              Dudas               SRB                 10.9
+Dmitriy             Karpov              KAZ                 10.91
+Darius              Draudvila           LTU                 10.95
+Ingmar              Vos                 NED                 10.98
+Edgars              Erins               LAT                 10.99
+Ilya                Shkurenev           RUS                 11.01
+Hans                Van_Alphen          BEL                 11.05
+Pascal              Behrenbruch         GER                 11.06
+Willem              Coertzen            RSA                 11.09
+Brent               Newdick             NZL                 11.1
+Kurt                Felix               GRN                 11.12
+Attila              Szabo               HUN                 11.15
+Gonzalo             Barroilhet          CHI                 11.18
+Leonel              Suarez              CUB                 11.27
+Keisuke             Ushiro              JPN                 11.32
+Kevin               Mayer               FRA                 11.32
+Rifat               Artikov             UZB                 11.37
+Jan_Felix           Knobel              GER                 11.42
+Roman               Sebrle              CZE                 11.54
+
+event               LONG_JUMP
+
+Ashton              Eaton               USA                 8.03
+Hans                Van_Alphen          BEL                 7.64
+Kurt                Felix               GRN                 7.63
+Oleksiy             Kasyanov            UKR                 7.55
+Damian              Warner              CAN                 7.54
+Trey                Hardee              USA                 7.53
+Mihail              Dudas               SRB                 7.53
+Leonel              Suarez              CUB                 7.52
+Sergey              Sviridov            RUS                 7.45
+Eelco               Sintnicolaas        NED                 7.37
+Brent               Newdick             NZL                 7.36
+Ingmar              Vos                 NED                 7.27
+Ilya                Shkurenev           RUS                 7.25
+Dmitriy             Karpov              KAZ                 7.21
+Rico                Freimuth            GER                 7.21
+Willem              Coertzen            RSA                 7.17
+Kevin               Mayer               FRA                 7.17
+Luiz_Alberto        De_Araujo           BRA                 7.16
+Pascal              Behrenbruch         GER                 7.15
+Darius              Draudvila           LTU                 7.12
+Jan_Felix           Knobel              GER                 7.05
+Edgars              Erins               LAT                 6.98
+Attila              Szabo               HUN                 6.96
+Eduard              Mikhan              BLR                 6.94
+Jangy               Addy                LBR                 6.9
+Keisuke             Ushiro              JPN                 6.86
+Daniel              Awde                GBR                 6.83
+Gonzalo             Barroilhet          CHI                 6.8
+Yordani             Garcia              CUB                 6.75
+Rifat               Artikov             UZB                 6.41
+
+event               SHOT_PUT
+
+Dmitriy             Karpov              KAZ                 16.47
+Pascal              Behrenbruch         GER                 15.67
+Hans                Van_Alphen          BEL                 15.48
+Jan_Felix           Knobel              GER                 15.29
+Trey                Hardee              USA                 15.28
+Darius              Draudvila           LTU                 15.17
+Brent               Newdick             NZL                 15.09
+Jangy               Addy                LBR                 14.97
+Rico                Freimuth            GER                 14.87
+Eduard              Mikhan              BLR                 14.75
+Ashton              Eaton               USA                 14.66
+Leonel              Suarez              CUB                 14.5
+Gonzalo             Barroilhet          CHI                 14.49
+Yordani             Garcia              CUB                 14.48
+Oleksiy             Kasyanov            UKR                 14.45
+Sergey              Sviridov            RUS                 14.42
+Eelco               Sintnicolaas        NED                 14.18
+Rifat               Artikov             UZB                 14.11
+Kevin               Mayer               FRA                 14.05
+Attila              Szabo               HUN                 13.93
+Willem              Coertzen            RSA                 13.79
+Ingmar              Vos                 NED                 13.77
+Mihail              Dudas               SRB                 13.76
+Damian              Warner              CAN                 13.73
+Keisuke             Ushiro              JPN                 13.59
+Luiz_Alberto        De_Araujo           BRA                 13.52
+Edgars              Erins               LAT                 13.45
+Kurt                Felix               GRN                 13.28
+Ilya                Shkurenev           RUS                 12.89
+
+event               HIGH_JUMP
+
+Leonel              Suarez              CUB                 2.11
+Ashton              Eaton               USA                 2.05
+Hans                Van_Alphen          BEL                 2.05
+Gonzalo             Barroilhet          CHI                 2.05
+Kevin               Mayer               FRA                 2.05
+Kurt                Felix               GRN                 2.05
+Willem              Coertzen            RSA                 2.05
+Damian              Warner              CAN                 2.05
+Ilya                Shkurenev           RUS                 2.02
+Yordani             Garcia              CUB                 1.99
+Trey                Hardee              USA                 1.99
+Sergey              Sviridov            RUS                 1.99
+Dmitriy             Karpov              KAZ                 1.99
+Oleksiy             Kasyanov            UKR                 1.99
+Keisuke             Ushiro              JPN                 1.99
+Mihail              Dudas               SRB                 1.96
+Pascal              Behrenbruch         GER                 1.96
+Ingmar              Vos                 NED                 1.96
+Darius              Draudvila           LTU                 1.96
+Brent               Newdick             NZL                 1.96
+Rifat               Artikov             UZB                 1.93
+Eelco               Sintnicolaas        NED                 1.93
+Eduard              Mikhan              BLR                 1.93
+Luiz_Alberto        De_Araujo           BRA                 1.93
+Edgars              Erins               LAT                 1.93
+Jangy               Addy                LBR                 1.93
+Jan_Felix           Knobel              GER                 1.9
+Attila              Szabo               HUN                 1.9
+Rico                Freimuth            GER                 1.9
+
+
+
+event               400_METERS
+
+Ashton              Eaton               USA                 46.9
+Rico                Freimuth            GER                 48.06
+Trey                Hardee              USA                 48.11
+Damian              Warner              CAN                 48.2
+Luiz_Alberto        De_Araujo           BRA                 48.25
+Eduard              Mikhan              BLR                 48.42
+Oleksiy             Kasyanov            UKR                 48.44
+Willem              Coertzen            RSA                 48.56
+Jangy               Addy                LBR                 48.64
+Kevin               Mayer               FRA                 48.76
+Yordani             Garcia              CUB                 48.76
+Eelco               Sintnicolaas        NED                 48.85
+Sergey              Sviridov            RUS                 48.91
+Leonel              Suarez              CUB                 49.04
+Hans                Van_Alphen          BEL                 49.18
+Ingmar              Vos                 NED                 49.62
+Ilya                Shkurenev           RUS                 49.81
+Dmitriy             Karpov              KAZ                 49.83
+Jan_Felix           Knobel              GER                 49.87
+Pascal              Behrenbruch         GER                 50.04
+Darius              Draudvila           LTU                 50.13
+Kurt                Felix               GRN                 50.17
+Brent               Newdick             NZL                 50.22
+Edgars              Erins               LAT                 50.62
+Keisuke             Ushiro              JPN                 50.78
+Attila              Szabo               HUN                 50.83
+Gonzalo             Barroilhet          CHI                 51.07
+Rifat               Artikov             UZB                 51.91
+
+
+event               110_METERS_HURDLES
+
+Trey                Hardee              USA                 13.54
+Ashton              Eaton               USA                 13.56
+Rico                Freimuth            GER                 13.89
+Oleksiy             Kasyanov            UKR                 14.09
+Gonzalo             Barroilhet          CHI                 14.12
+Eduard              Mikhan              BLR                 14.15
+Willem              Coertzen            RSA                 14.15
+Jangy               Addy                LBR                 14.23
+Yordani             Garcia              CUB                 14.24
+Pascal              Behrenbruch         GER                 14.33
+Damian              Warner              CAN                 14.38
+Ilya                Shkurenev           RUS                 14.39
+Dmitriy             Karpov              KAZ                 14.4
+Eelco               Sintnicolaas        NED                 14.43
+Leonel              Suarez              CUB                 14.45
+Ingmar              Vos                 NED                 14.61
+Rifat               Artikov             UZB                 14.74
+Luiz_Alberto        De_Araujo           BRA                 14.79
+Darius              Draudvila           LTU                 14.87
+Hans                Van_Alphen          BEL                 14.89
+Attila              Szabo               HUN                 14.92
+Brent               Newdick             NZL                 15.02
+Jan_Felix           Knobel              GER                 15.03
+Edgars              Erins               LAT                 15.22
+Sergey              Sviridov            RUS                 15.42
+Keisuke             Ushiro              JPN                 15.47
+Kevin               Mayer               FRA                 15.59
+
+
+event               DISCUS_THROW
+
+Rico                Freimuth            GER                 49.11
+Hans                Van_Alphen          BEL                 48.28
+Trey                Hardee              USA                 48.26
+Sergey              Sviridov            RUS                 47.43
+Oleksiy             Kasyanov            UKR                 46.72
+Keisuke             Ushiro              JPN                 46.66
+Darius              Draudvila           LTU                 46.43
+Brent               Newdick             NZL                 46.15
+Jan_Felix           Knobel              GER                 46.1
+Damian              Warner              CAN                 45.9
+Leonel              Suarez              CUB                 45.75
+Jangy               Addy                LBR                 45.61
+Attila              Szabo               HUN                 45.14
+Edgars              Erins               LAT                 45.1
+Dmitriy             Karpov              KAZ                 44.93
+Luiz_Alberto        De_Araujo           BRA                 44.76
+Pascal              Behrenbruch         GER                 44.71
+Eduard              Mikhan              BLR                 44.42
+Willem              Coertzen            RSA                 43.58
+Rifat               Artikov             UZB                 43.53
+Ilya                Shkurenev           RUS                 43.51
+Ashton              Eaton               USA                 42.53
+Yordani             Garcia              CUB                 42.27
+Ingmar              Vos                 NED                 42.26
+Gonzalo             Barroilhet          CHI                 41.27
+Kevin               Mayer               FRA                 41.2
+Eelco               Sintnicolaas        NED                 32.26
+
+event               POLE_VAULT
+
+Gonzalo             Barroilhet          CHI                 5.4
+Eelco               Sintnicolaas        NED                 5.3
+Ashton              Eaton               USA                 5.2
+Dmitriy             Karpov              KAZ                 5.1
+Ilya                Shkurenev           RUS                 5.1
+Rico                Freimuth            GER                 4.9
+Keisuke             Ushiro              JPN                 4.9
+Hans                Van_Alphen          BEL                 4.8
+Trey                Hardee              USA                 4.8
+Leonel              Suarez              CUB                 4.7
+Damian              Warner              CAN                 4.7
+Kevin               Mayer               FRA                 4.7
+Brent               Newdick             NZL                 4.7
+Pascal              Behrenbruch         GER                 4.7
+Oleksiy             Kasyanov            UKR                 4.6
+Attila              Szabo               HUN                 4.6
+Sergey              Sviridov            RUS                 4.6
+Luiz_Alberto        De_Araujo           BRA                 4.6
+Yordani             Garcia              CUB                 4.6
+Ingmar              Vos                 NED                 4.5
+Edgars              Erins               LAT                 4.5
+Willem              Coertzen            RSA                 4.5
+Eduard              Mikhan              BLR                 4.4
+Rifat               Artikov             UZB                 4.4
+Jan_Felix           Knobel              GER                 4.4
+Darius              Draudvila           LTU                 4.2
+Jangy               Addy                LBR                 4.2
+
+event               JAVELIN_THROW
+
+Leonel              Suarez              CUB                 76.94
+Sergey              Sviridov            RUS                 68.42
+Trey                Hardee              USA                 66.65
+Keisuke             Ushiro              JPN                 66.38
+Pascal              Behrenbruch         GER                 64.8
+Willem              Coertzen            RSA                 64.79
+Damian              Warner              CAN                 62.77
+Kevin               Mayer               FRA                 62.41
+Ashton              Eaton               USA                 61.96
+Hans                Van_Alphen          BEL                 61.69
+Ingmar              Vos                 NED                 61.6
+Yordani             Garcia              CUB                 59.85
+Brent               Newdick             NZL                 59.82
+Attila              Szabo               HUN                 58.84
+Eelco               Sintnicolaas        NED                 58.82
+Rico                Freimuth            GER                 57.37
+Edgars              Erins               LAT                 57.35
+Gonzalo             Barroilhet          CHI                 57.25
+Rifat               Artikov             UZB                 56.62
+Eduard              Mikhan              BLR                 55.69
+Oleksiy             Kasyanov            UKR                 54.87
+Ilya                Shkurenev           RUS                 53.81
+Luiz_Alberto        De_Araujo           BRA                 51.59
+Jangy               Addy                LBR                 50.36
+Darius              Draudvila           LTU                 50.16
+Dmitriy             Karpov              KAZ                 49.93
+
+
+event               1500_METERS
+
+Hans                Van_Alphen          BEL                  04:22.50
+Kevin               Mayer               FRA                  04:23.02
+Willem              Coertzen            RSA                  04:26.52
+Damian              Warner              CAN                  04:29.85
+Leonel              Suarez              CUB                  04:30.08
+Eelco               Sintnicolaas        NED                  04:31.17
+Ashton              Eaton               USA                  04:33.59
+Oleksiy             Kasyanov            UKR                  04:33.68
+Edgars              Erins               LAT                  04:35.88
+Sergey              Sviridov            RUS                  04:36.63
+Pascal              Behrenbruch         GER                  04:37.46
+Rico                Freimuth            GER                  04:37.62
+Luiz_Alberto        De_Araujo           BRA                  04:38.04
+Eduard              Mikhan              BLR                  04:38.06
+Brent               Newdick             NZL                  04:38.20
+Yordani             Garcia              CUB                  04:38.57
+Keisuke             Ushiro              JPN                  04:39.33
+Trey                Hardee              USA                  04:40.94
+Ilya                Shkurenev           RUS                  04:42.80
+Gonzalo             Barroilhet          CHI                  04:48.23
+Ingmar              Vos                 NED                  04:50.01
+Attila              Szabo               HUN                  04:53.81
+Darius              Draudvila           LTU                  05:03.14
+Jangy               Addy                LBR                  05:08.14
+Rifat               Artikov             UZB                  05:09.52
+Dmitriy             Karpov              KAZ                  05:16.83

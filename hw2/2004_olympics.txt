@@ -1,0 +1,378 @@
+event 100_METERS
+
+Roman Sebrle CZE 10.85
+Bryan Clay USA 10.44
+Dmitriy Karpov KAZ 10.5
+Dean Macey GBR 10.89
+Chiel Warners NED 10.62
+Attila Zsivoczky HUN 10.91
+Laurent Hernu FRA 10.97
+Erki Nool EST 10.8
+Claston Bernard JAM 10.69
+Roland Schwarzl AUT 10.98
+Alexander Pogorelov RUS 10.95
+Florian Schonbeck GER 10.9
+Romain Barras FRA 11.14
+Maurice Smith JAM 10.85
+Nikolay Averyanov RUS 10.55
+Jaakko Ojaniemi FIN 10.68
+Vitaliy Smirnov UZB 10.89
+Haifeng Qi CHN 11.06
+Stefan Drews GER 10.87
+Aliaksandr Parkhomenka BLR 11.14
+Paul Terek USA 10.92
+David Gomez ESP 11.08
+Indrek Turi EST 11.08
+Santiago Lorenzo ARG 11.1
+Janis Karlivans LAT 11.33
+Prodromos Korkizoglou GRE 10.86
+Hans Olav_Uldal NOR 11.23
+Paolo Casarsa ITA 11.36
+Eugene Martineau NED 10.99
+Victor Covalenco MDA 11.28
+Tomas Dvorak CZE 11.53
+Jon Arnar_Magnusson ISL 11.05
+Lev Lobodin RUS 11.05
+Kristjan Rahnu EST 10.77
+Tom Pappas USA 10.8
+Ahmad Hassan_Moussa QAT 10.79
+Dennis Leyckes GER 11.05
+Luiggy Llanos PUR 10.94
+Pavel Andreev UZB 11.29
+
+
+event LONG_JUMP
+
+Roman Sebrle CZE 7.84
+Bryan Clay USA 7.96
+Dmitriy Karpov KAZ 7.81
+Dean Macey GBR 7.47
+Chiel Warners NED 7.74
+Attila Zsivoczky HUN 7.14
+Laurent Hernu FRA 7.19
+Erki Nool EST 7.53
+Claston Bernard JAM 7.48
+Roland Schwarzl AUT 7.49
+Alexander Pogorelov RUS 7.31
+Florian Schonbeck GER 7.3
+Romain Barras FRA 6.99
+Maurice Smith JAM 6.81
+Nikolay Averyanov RUS 7.24
+Jaakko Ojaniemi FIN 7.5
+Vitaliy Smirnov UZB 7.07
+Haifeng Qi CHN 7.24
+Stefan Drews GER 7.38
+Aliaksandr Parkhomenka BLR 6.61
+Paul Terek USA 6.94
+David Gomez ESP 7.26
+Indrek Turi EST 6.91
+Santiago Lorenzo ARG 7.03
+Janis Karlivans LAT 7.26
+Prodromos Korkizoglou GRE 7.07
+Hans Olav_Uldal NOR 6.99
+Paolo Casarsa ITA 6.68
+Eugene Martineau NED 6.84
+Victor Covalenco MDA 7.2
+Jon Arnar_Magnusson ISL 7.12
+Lev Lobodin RUS 6.86
+Tom Pappas USA 7.38
+Ahmad Hassan_Moussa QAT 7.04
+Dennis Leyckes GER 7.05
+Luiggy Llanos PUR 7.43
+
+
+event SHOT_PUT
+
+Roman Sebrle CZE 16.36
+Bryan Clay USA 15.23
+Dmitriy Karpov KAZ 15.93
+Dean Macey GBR 15.73
+Chiel Warners NED 14.48
+Attila Zsivoczky HUN 15.31
+Laurent Hernu FRA 14.65
+Erki Nool EST 14.26
+Claston Bernard JAM 14.8
+Roland Schwarzl AUT 14.01
+Alexander Pogorelov RUS 15.1
+Florian Schonbeck GER 14.77
+Romain Barras FRA 14.91
+Maurice Smith JAM 15.24
+Nikolay Averyanov RUS 14.44
+Jaakko Ojaniemi FIN 14.97
+Vitaliy Smirnov UZB 13.88
+Haifeng Qi CHN 13.55
+Stefan Drews GER 13.07
+Aliaksandr Parkhomenka BLR 15.69
+Paul Terek USA 15.15
+David Gomez ESP 14.57
+Indrek Turi EST 13.62
+Santiago Lorenzo ARG 13.22
+Janis Karlivans LAT 13.3
+Prodromos Korkizoglou GRE 14.81
+Hans Olav_Uldal NOR 13.53
+Paolo Casarsa ITA 14.92
+Victor Covalenco MDA 13.04
+Jon Arnar_Magnusson ISL 14.98
+Kristjan Rahnu EST 14.45
+Tom Pappas USA 16.17
+Ahmad Hassan_Moussa QAT 13.32
+Dennis Leyckes GER 12.84
+Luiggy Llanos PUR 13.77
+Pavel Andreev UZB 14.3
+
+
+event HIGH_JUMP
+
+Roman Sebrle CZE 2.12
+Bryan Clay USA 2.06
+Dmitriy Karpov KAZ 2.09
+Dean Macey GBR 2.15
+Chiel Warners NED 1.97
+Attila Zsivoczky HUN 2.12
+Laurent Hernu FRA 2.03
+Erki Nool EST 1.88
+Claston Bernard JAM 2.12
+Roland Schwarzl AUT 1.94
+Alexander Pogorelov RUS 2.06
+Florian Schonbeck GER 1.88
+Romain Barras FRA 1.94
+Maurice Smith JAM 1.91
+Nikolay Averyanov RUS 1.94
+Jaakko Ojaniemi FIN 1.94
+Vitaliy Smirnov UZB 1.94
+Haifeng Qi CHN 1.97
+Stefan Drews GER 1.88
+Aliaksandr Parkhomenka BLR 2.03
+Paul Terek USA 1.94
+David Gomez ESP 1.85
+Indrek Turi EST 2.03
+Santiago Lorenzo ARG 1.85
+Janis Karlivans LAT 1.97
+Prodromos Korkizoglou GRE 1.94
+Hans Olav_Uldal NOR 1.85
+Paolo Casarsa ITA 1.94
+Eugene Martineau NED 2
+Victor Covalenco MDA 1.85
+Tom Pappas USA 2.03
+Ahmad Hassan_Moussa QAT 1.82
+Dennis Leyckes GER 1.91
+Luiggy Llanos PUR 1.91
+Pavel Andreev UZB 2
+
+
+event 400_METERS
+
+Roman Sebrle CZE 48.36
+Bryan Clay USA 49.19
+Dmitriy Karpov KAZ 46.81
+Dean Macey GBR 48.97
+Chiel Warners NED 47.97
+Attila Zsivoczky HUN 49.4
+Laurent Hernu FRA 48.73
+Erki Nool EST 48.81
+Claston Bernard JAM 49.13
+Roland Schwarzl AUT 49.76
+Alexander Pogorelov RUS 50.79
+Florian Schonbeck GER 50.3
+Romain Barras FRA 49.41
+Maurice Smith JAM 49.27
+Nikolay Averyanov RUS 49.72
+Jaakko Ojaniemi FIN 49.12
+Vitaliy Smirnov UZB 49.11
+Haifeng Qi CHN 49.65
+Stefan Drews GER 48.51
+Aliaksandr Parkhomenka BLR 51.04
+Paul Terek USA 49.56
+David Gomez ESP 48.61
+Indrek Turi EST 51.67
+Santiago Lorenzo ARG 49.34
+Janis Karlivans LAT 50.54
+Prodromos Korkizoglou GRE 51.16
+Hans Olav_Uldal NOR 50.95
+Paolo Casarsa ITA 53.2
+Eugene Martineau NED 49.1
+Victor Covalenco MDA 51.82
+Tom Pappas USA 47.97
+Ahmad Hassan_Moussa QAT 48.73
+Luiggy Llanos PUR 49.28
+Pavel Andreev UZB 51.64
+
+
+event 110_METERS_HURDLES
+
+Roman Sebrle CZE 14.05
+Bryan Clay USA 14.13
+Dmitriy Karpov KAZ 13.97
+Dean Macey GBR 14.56
+Chiel Warners NED 14.01
+Attila Zsivoczky HUN 14.95
+Laurent Hernu FRA 14.25
+Erki Nool EST 14.8
+Claston Bernard JAM 14.17
+Roland Schwarzl AUT 14.25
+Alexander Pogorelov RUS 14.21
+Florian Schonbeck GER 14.34
+Romain Barras FRA 14.37
+Maurice Smith JAM 14.01
+Nikolay Averyanov RUS 14.39
+Jaakko Ojaniemi FIN 15.01
+Vitaliy Smirnov UZB 14.77
+Haifeng Qi CHN 14.78
+Stefan Drews GER 14.01
+Aliaksandr Parkhomenka BLR 14.88
+Paul Terek USA 15.12
+David Gomez ESP 14.41
+Indrek Turi EST 14.26
+Santiago Lorenzo ARG 15.38
+Janis Karlivans LAT 14.98
+Prodromos Korkizoglou GRE 14.96
+Hans Olav_Uldal NOR 15.09
+Paolo Casarsa ITA 15.39
+Eugene Martineau NED 15.02
+Victor Covalenco MDA 15.8
+Tom Pappas USA 14.18
+Luiggy Llanos PUR 14.13
+Pavel Andreev UZB 15.54
+
+
+event DISCUS_THROW
+
+Roman Sebrle CZE 48.72
+Bryan Clay USA 50.11
+Dmitriy Karpov KAZ 51.65
+Dean Macey GBR 48.34
+Chiel Warners NED 43.73
+Attila Zsivoczky HUN 45.62
+Laurent Hernu FRA 44.72
+Erki Nool EST 42.05
+Claston Bernard JAM 44.75
+Roland Schwarzl AUT 42.43
+Alexander Pogorelov RUS 44.6
+Florian Schonbeck GER 44.41
+Romain Barras FRA 44.83
+Maurice Smith JAM 49.02
+Nikolay Averyanov RUS 39.88
+Jaakko Ojaniemi FIN 40.35
+Vitaliy Smirnov UZB 42.47
+Haifeng Qi CHN 45.13
+Stefan Drews GER 40.11
+Aliaksandr Parkhomenka BLR 41.9
+Paul Terek USA 45.62
+David Gomez ESP 40.95
+Indrek Turi EST 39.83
+Santiago Lorenzo ARG 40.22
+Janis Karlivans LAT 43.34
+Prodromos Korkizoglou GRE 46.07
+Hans Olav_Uldal NOR 43.01
+Paolo Casarsa ITA 48.66
+Eugene Martineau NED 40.00
+Victor Covalenco MDA 38.19
+Tom Pappas USA 47.39
+Luiggy Llanos PUR 41.82
+Pavel Andreev UZB 41.89
+
+
+event POLE_VAULT
+
+Roman Sebrle CZE 5
+Bryan Clay USA 4.9
+Dmitriy Karpov KAZ 4.6
+Dean Macey GBR 4.4
+Chiel Warners NED 4.9
+Attila Zsivoczky HUN 4.7
+Laurent Hernu FRA 4.8
+Erki Nool EST 5.4
+Claston Bernard JAM 4.4
+Roland Schwarzl AUT 5.1
+Alexander Pogorelov RUS 5
+Florian Schonbeck GER 5
+Romain Barras FRA 4.6
+Maurice Smith JAM 4.2
+Nikolay Averyanov RUS 4.8
+Jaakko Ojaniemi FIN 4.6
+Vitaliy Smirnov UZB 4.7
+Haifeng Qi CHN 4.5
+Stefan Drews GER 5
+Aliaksandr Parkhomenka BLR 4.8
+Paul Terek USA 5.3
+David Gomez ESP 4.4
+Indrek Turi EST 4.8
+Santiago Lorenzo ARG 4.5
+Janis Karlivans LAT 4.5
+Prodromos Korkizoglou GRE 4.7
+Hans Olav_Uldal NOR 4.5
+Paolo Casarsa ITA 4.4
+Eugene Martineau NED 4.8
+Pavel Andreev UZB 4.9
+
+
+event JAVELIN_THROW
+
+Roman Sebrle CZE 70.52
+Bryan Clay USA 69.71
+Dmitriy Karpov KAZ 55.54
+Dean Macey GBR 58.46
+Chiel Warners NED 55.39
+Attila Zsivoczky HUN 63.45
+Laurent Hernu FRA 57.76
+Erki Nool EST 61.33
+Claston Bernard JAM 55.27
+Roland Schwarzl AUT 56.32
+Alexander Pogorelov RUS 53.45
+Florian Schonbeck GER 60.89
+Romain Barras FRA 64.55
+Maurice Smith JAM 61.52
+Nikolay Averyanov RUS 54.51
+Jaakko Ojaniemi FIN 59.26
+Vitaliy Smirnov UZB 60.88
+Haifeng Qi CHN 60.79
+Stefan Drews GER 51.53
+Aliaksandr Parkhomenka BLR 65.82
+Paul Terek USA 50.62
+David Gomez ESP 60.71
+Indrek Turi EST 59.34
+Santiago Lorenzo ARG 58.36
+Janis Karlivans LAT 52.92
+Prodromos Korkizoglou GRE 53.05
+Hans Olav_Uldal NOR 60
+Paolo Casarsa ITA 58.62
+Eugene Martineau NED 63.62
+Victor Covalenco MDA 53.46
+
+
+event 1500_METERS
+
+Roman Sebrle CZE 4:40.01
+Bryan Clay USA 4:41.65
+Dmitriy Karpov KAZ 4:38.11
+Dean Macey GBR 4:25.42
+Chiel Warners NED 4:38.05
+Attila Zsivoczky HUN 4:29.54
+Laurent Hernu FRA 4:24.35
+Erki Nool EST 4:36.33
+Claston Bernard JAM 4:36.31
+Roland Schwarzl AUT 4:33.56
+Alexander Pogorelov RUS 4:47.63
+Florian Schonbeck GER 4:38.82
+Romain Barras FRA 4:27.09
+Maurice Smith JAM 4:32.74
+Nikolay Averyanov RUS 4:31.02
+Jaakko Ojaniemi FIN 4:35.71
+Vitaliy Smirnov UZB 4:23.31
+Haifeng Qi CHN 4:32.63
+Stefan Drews GER 4:34.21
+Aliaksandr Parkhomenka BLR 4:37.94
+Paul Terek USA 4:50.36
+David Gomez ESP 4:29.7
+Indrek Turi EST 4:50.01
+Santiago Lorenzo ARG 4:23.08
+Janis Karlivans LAT 4:38.67
+Prodromos Korkizoglou GRE 5:17
+Hans Olav_Uldal NOR 4:41.7
+Paolo Casarsa ITA 4:56.12
+Eugene Martineau NED 4:31.79
+Victor Covalenco MDA 4:23.81
+
+
+
+
