@@ -6,7 +6,6 @@
 #include <cmath>
 #include <algorithm>
 #include <array>
-#include <iomanip>
 #include "Board.h"
 using namespace std;
 
