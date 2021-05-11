@@ -1,9 +1,0 @@
-*
-**
-*a*
-*bc*
-*dea*
-*bcde*
-*abcde*
-*abcdea*
-*********
