@@ -1,4 +1,0 @@
-DECATHLETE POINTS              100     LJ     SP     HJ    400   100H     DT     PV     JT   1500    TOTAL
-Bryan     Clay          USA    989   1005    868    794    865    984    950    910    904    522     8791
-Andrei    Krauchanka    BLR    870    962    752    906    943    948    758    910    741    761     8551
-Leonel    Suarez        CUB    883    893    758    850    913    955    756    819    950    750     8527
